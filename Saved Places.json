@@ -1,0 +1,3405 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -116.943448, 34.046947 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=39364+Oak+Glen+Rd,+Yucaipa,+CA+92399&ftid=0x80db4fa92dacde89:0xe2a9d1da2894098c",
+      "Location" : {
+        "Latitude" : "34.046947",
+        "Longitude" : "-116.943448"
+      },
+      "Published" : "2016-10-14T21:51:41Z",
+      "Title" : "39364 Oak Glen Road, Yucaipa, CA 92399",
+      "Updated" : "2016-10-14T21:51:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2440381, 34.1424175 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17443296966486641035",
+      "Location" : {
+        "Address" : "902 East Colorado Street, Glendale, CA 91205, United States",
+        "Business Name" : "Massif Restaurant",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1424175",
+          "Longitude" : "-118.2440381"
+        }
+      },
+      "Published" : "2016-10-08T01:58:19Z",
+      "Title" : "Massif Restaurant",
+      "Updated" : "2016-10-08T01:58:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.886943, 32.912317 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2665+Villa+Creek+Dr,+Farmers+Branch,+TX+75234&ftid=0x864c27a29b08493d:0x23adb89e0d9a0851",
+      "Location" : {
+        "Latitude" : "32.912317",
+        "Longitude" : "-96.886943"
+      },
+      "Published" : "2016-08-30T20:06:59Z",
+      "Title" : "2665 Villa Creek Drive, Farmers Branch, TX 75234",
+      "Updated" : "2016-08-30T20:06:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.183981, 34.118879 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=6433+N+Figueroa+St,+Los+Angeles,+CA+90042&ftid=0x80c2c40b609aed81:0xbc3c14a4331df85c",
+      "Location" : {
+        "Latitude" : "34.118879",
+        "Longitude" : "-118.183981"
+      },
+      "Published" : "2016-08-13T22:11:02Z",
+      "Title" : "6433 North Figueroa Street, Los Angeles, CA 90042",
+      "Updated" : "2016-08-13T22:11:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.022367, 34.195818 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=34.195818,-118.022367",
+      "Location" : {
+        "Latitude" : "34.195818",
+        "Longitude" : "-118.022367"
+      },
+      "Published" : "2015-12-19T06:29:58Z",
+      "Title" : "34.195818,-118.022367",
+      "Updated" : "2016-08-12T05:41:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.1567426, 34.1145053 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=440119750410602215",
+      "Location" : {
+        "Address" : "1009 El Centro Street, South Pasadena, CA 91030, United States",
+        "Business Name" : "Communal",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1145053",
+          "Longitude" : "-118.1567426"
+        }
+      },
+      "Published" : "2016-07-17T00:26:03Z",
+      "Title" : "Communal",
+      "Updated" : "2016-07-17T00:26:03Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.251214, 34.065434 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1154+Bellevue+Ave,+Los+Angeles,+CA+90012&ftid=0x80c2c6555d54dc63:0x51578e2ea500aad7",
+      "Location" : {
+        "Latitude" : "34.065434",
+        "Longitude" : "-118.251214"
+      },
+      "Published" : "2016-07-05T22:17:09Z",
+      "Title" : "1154 Bellevue Avenue, Los Angeles, CA 90012",
+      "Updated" : "2016-07-05T22:17:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.8497678, 34.1289705 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5225756548604844149",
+      "Location" : {
+        "Address" : "915 East Route 66, Glendora, CA 91740, United States",
+        "Business Name" : "The Donut Man",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1289705",
+          "Longitude" : "-117.8497678"
+        }
+      },
+      "Published" : "2016-06-05T20:21:11Z",
+      "Title" : "The Donut Man",
+      "Updated" : "2016-06-05T20:21:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.278926, 34.249534 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=359+Thousand+Pines+Rd,+Crestline,+CA+92325&ftid=0x80c350b08461e88f:0x24e9bd17dcfc34c5",
+      "Location" : {
+        "Latitude" : "34.249534",
+        "Longitude" : "-117.278926"
+      },
+      "Published" : "2016-06-02T17:19:02Z",
+      "Title" : "359 Thousand Pines Road, Crestline, CA 92325",
+      "Updated" : "2016-06-02T17:19:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.384691, 33.980695 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=6300+Green+Valley+Cir,+Culver+City,+CA+90230&ftid=0x80c2b74e31a7f2a1:0xa9e2a656593fa04e",
+      "Location" : {
+        "Latitude" : "33.980695",
+        "Longitude" : "-118.384691"
+      },
+      "Published" : "2016-04-23T16:00:09Z",
+      "Title" : "6300 Green Valley Circle, Culver City, CA 90230",
+      "Updated" : "2016-04-23T16:00:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3779976, 34.1697055 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14853192349577232088",
+      "Location" : {
+        "Address" : "5445 Lankershim Boulevard, North Hollywood, CA 91601, United States",
+        "Business Name" : "Roger Dunn Golf Shops",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1697055",
+          "Longitude" : "-118.3779976"
+        }
+      },
+      "Published" : "2016-04-16T22:06:49Z",
+      "Title" : "Roger Dunn Golf Shops",
+      "Updated" : "2016-04-16T22:06:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.032340, 34.117681 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=29+W+Wistaria+Ave,+Arcadia,+CA+91007&ftid=0x80c2da3259aa59ff:0x89c3f6ba03b0dc69",
+      "Location" : {
+        "Latitude" : "34.117681",
+        "Longitude" : "-118.032340"
+      },
+      "Published" : "2016-03-26T08:04:45Z",
+      "Title" : "29 West Wistaria Avenue, Arcadia, CA 91007",
+      "Updated" : "2016-03-26T08:04:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2389740, 34.0159540 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8941992723167326322",
+      "Location" : {
+        "Address" : "1824 East 22nd Street, Los Angeles, CA 90058, United States",
+        "Business Name" : "Terminal Hardware Co Inc",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0159540",
+          "Longitude" : "-118.2389740"
+        }
+      },
+      "Published" : "2016-02-25T23:37:38Z",
+      "Title" : "Terminal Hardware Co Inc",
+      "Updated" : "2016-02-25T23:37:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.9973420, 33.8689970 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17468353295003014476",
+      "Location" : {
+        "Address" : "6291 Homewood Avenue, Buena Park, CA 90621, United States",
+        "Business Name" : "Cafe Seventh Home",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.8689970",
+          "Longitude" : "-117.9973420"
+        }
+      },
+      "Published" : "2016-02-20T22:34:26Z",
+      "Title" : "Cafe Seventh Home",
+      "Updated" : "2016-02-20T22:34:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2327145, 34.0393770 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2458515293884944228",
+      "Location" : {
+        "Address" : "580 Mateo Street, Los Angeles, CA 90013, United States",
+        "Business Name" : "Zinc Cafe & Market and Bar Mateo",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0393770",
+          "Longitude" : "-118.2327145"
+        }
+      },
+      "Published" : "2016-02-13T22:48:26Z",
+      "Title" : "Zinc Cafe Market & Bar",
+      "Updated" : "2016-02-13T22:48:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.452860, 34.045587 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=34.045587,-118.452860",
+      "Location" : {
+        "Latitude" : "34.045587",
+        "Longitude" : "-118.452860"
+      },
+      "Published" : "2015-04-18T20:57:55Z",
+      "Title" : "34.045587,-118.452860",
+      "Updated" : "2016-01-28T07:23:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.7185278, 32.9747572 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8187699659422579184",
+      "Location" : {
+        "Address" : "1981 North Central Expressway, Richardson, TX 75080, United States",
+        "Business Name" : "DoubleTree by Hilton Hotel Dallas - Richardson",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "32.9747572",
+          "Longitude" : "-96.7185278"
+        }
+      },
+      "Published" : "2016-01-28T05:11:04Z",
+      "Title" : "DoubleTree by Hilton Hotel Dallas - Richardson",
+      "Updated" : "2016-01-28T05:11:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -97.0100616, 32.9544259 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14462968966984313786",
+      "Location" : {
+        "Address" : "688 Freeport Parkway, Coppell, TX 75019, United States",
+        "Business Name" : "Hard Eight BBQ",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "32.9544259",
+          "Longitude" : "-97.0100616"
+        }
+      },
+      "Published" : "2016-01-28T00:42:21Z",
+      "Title" : "Hard Eight BBQ",
+      "Updated" : "2016-01-28T00:42:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.759870, 32.923007 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=8330+Lyndon+B+Johnson+Fwy,+Dallas,+TX+75243&ftid=0x864c2023372893ab:0x2529f55e4f2caa0f",
+      "Location" : {
+        "Latitude" : "32.923007",
+        "Longitude" : "-96.759870"
+      },
+      "Published" : "2016-01-25T21:17:13Z",
+      "Title" : "8330 Lyndon B Johnson Freeway, Dallas, TX 75243",
+      "Updated" : "2016-01-25T21:17:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.240351, 34.050756 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=116+Judge+John+Aiso+St,+Los+Angeles,+CA+90012&ftid=0x80c2c647d2dc0b6f:0xfe1489d9b631c1f",
+      "Location" : {
+        "Latitude" : "34.050756",
+        "Longitude" : "-118.240351"
+      },
+      "Published" : "2016-01-23T18:21:15Z",
+      "Title" : "116 Judge John Aiso Street, Los Angeles, CA 90012",
+      "Updated" : "2016-01-23T18:21:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.237788, 33.942885 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1950+E+103rd+St,+Los+Angeles,+CA+90002&ftid=0x80c2cbd909614f5f:0xf3b8721062f1e1d9",
+      "Location" : {
+        "Latitude" : "33.942885",
+        "Longitude" : "-118.237788"
+      },
+      "Published" : "2016-01-19T03:02:20Z",
+      "Title" : "1950 East 103rd Street, Los Angeles, CA 90002",
+      "Updated" : "2016-01-19T03:02:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.258106, 34.061758 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=34.061758,-118.25810599999998",
+      "Location" : {
+        "Latitude" : "34.061758",
+        "Longitude" : "-118.258106"
+      },
+      "Published" : "2016-01-17T20:32:33Z",
+      "Title" : "34.061758,-118.25810599999998",
+      "Updated" : "2016-01-17T20:32:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.284088, 34.148393 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4996993576164837841",
+      "Location" : {
+        "Latitude" : "34.148393",
+        "Longitude" : "-118.284088"
+      },
+      "Published" : "2016-01-17T20:27:10Z",
+      "Title" : "Old L.A. Zoo",
+      "Updated" : "2016-01-17T20:27:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.284088, 34.148393 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4996993576164837841",
+      "Location" : {
+        "Latitude" : "34.148393",
+        "Longitude" : "-118.284088"
+      },
+      "Published" : "2016-01-17T20:27:10Z",
+      "Title" : "Old L.A. Zoo",
+      "Updated" : "2016-01-17T20:27:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3646505, 34.0981571 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17543199267076182170",
+      "Location" : {
+        "Address" : "8017 Sunset Boulevard, Los Angeles, CA 90046, United States",
+        "Business Name" : "Greenblatt's Deli-Restaurant And Fine Wine Shop",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0981571",
+          "Longitude" : "-118.3646505"
+        }
+      },
+      "Published" : "2015-12-31T03:40:36Z",
+      "Title" : "Greenblatt's Deli-Restaurant And Fine Wine Shop",
+      "Updated" : "2015-12-31T03:40:36Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3906020, 34.1424670 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1598918425247303151",
+      "Location" : {
+        "Address" : "United States",
+        "Business Name" : "Ventura / Carpenter",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1424670",
+          "Longitude" : "-118.3906020"
+        }
+      },
+      "Published" : "2015-12-31T02:04:09Z",
+      "Title" : "Ventura / Carpenter",
+      "Updated" : "2015-12-31T02:04:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.217144, 34.063648 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=The+Brewery,+650+S+Avenue+21,+Los+Angeles,+CA+90031&ftid=0x80c2c6701b48f185:0xd2fe3fb62835f794",
+      "Location" : {
+        "Latitude" : "34.063648",
+        "Longitude" : "-118.217144"
+      },
+      "Published" : "2015-12-28T05:05:05Z",
+      "Title" : "The Brewery, 650 South Avenue 21, Los Angeles, CA 90031",
+      "Updated" : "2015-12-28T05:05:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.320147, 34.489547 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17869630855207303011",
+      "Location" : {
+        "Latitude" : "34.489547",
+        "Longitude" : "-118.320147"
+      },
+      "Published" : "2015-10-03T04:51:27Z",
+      "Title" : "Vasquez Rocks",
+      "Updated" : "2015-10-03T04:51:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.320147, 34.489547 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17869630855207303011",
+      "Location" : {
+        "Latitude" : "34.489547",
+        "Longitude" : "-118.320147"
+      },
+      "Published" : "2015-10-03T04:51:27Z",
+      "Title" : "Vasquez Rocks",
+      "Updated" : "2015-10-03T04:51:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.4425829, 34.0401144 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6306601649857520645",
+      "Location" : {
+        "Address" : "2050 Sawtelle Boulevard, Los Angeles, CA 90025, United States",
+        "Business Name" : "Tsujita LA Artisan Noodles Annex",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0401144",
+          "Longitude" : "-118.4425829"
+        }
+      },
+      "Published" : "2015-09-18T05:22:44Z",
+      "Title" : "Tsujita LA Artisan Noodles Annex",
+      "Updated" : "2015-09-18T05:22:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.994579, 37.534533 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.534533,126.994579",
+      "Location" : {
+        "Latitude" : "37.534533",
+        "Longitude" : "126.994579"
+      },
+      "Published" : "2014-11-20T08:36:21Z",
+      "Title" : "37.534533,126.994579",
+      "Updated" : "2015-09-07T05:28:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.889943, 33.846398 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=515+N+State+College+Blvd,+Anaheim,+CA+92806&ftid=0x80dcd642b493793d:0x6dc840a077cbd2c0",
+      "Location" : {
+        "Latitude" : "33.846398",
+        "Longitude" : "-117.889943"
+      },
+      "Published" : "2015-08-08T21:17:24Z",
+      "Title" : "515 North State College Boulevard, Anaheim, CA 92806",
+      "Updated" : "2015-08-08T21:17:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.9119521, 33.8315126 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10408950840375449423",
+      "Location" : {
+        "Address" : "440 South Anaheim Boulevard, Anaheim, CA 92805, United States",
+        "Business Name" : "Anaheim Packing District",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.8315126",
+          "Longitude" : "-117.9119521"
+        }
+      },
+      "Published" : "2015-07-11T20:52:09Z",
+      "Title" : "Anaheim Packing District",
+      "Updated" : "2015-07-11T20:52:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.580315, 34.115783 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=20421+Callon+Dr,+Topanga,+CA+90290&ftid=0x80c29f52acfa9ae9:0xc9218a97b429d86a",
+      "Location" : {
+        "Latitude" : "34.115783",
+        "Longitude" : "-118.580315"
+      },
+      "Published" : "2015-06-20T22:01:46Z",
+      "Title" : "20421 Callon Drive, Topanga, CA 90290",
+      "Updated" : "2015-06-20T22:01:46Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.846680, 32.830922 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=6822+Maple+Ave,+Dallas,+TX+75235&ftid=0x864e9c3b442e0b99:0x24ec4606b9169da2",
+      "Location" : {
+        "Latitude" : "32.830922",
+        "Longitude" : "-96.846680"
+      },
+      "Published" : "2015-05-26T15:51:09Z",
+      "Title" : "6822 Maple Avenue, Dallas, TX 75235",
+      "Updated" : "2015-05-26T15:51:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -157.8375220, 21.2824380 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12777359080708391472",
+      "Location" : {
+        "Address" : "2005 Kalia Road, Honolulu, HI 96815, United States",
+        "Business Name" : "Hilton Hawaiian Village Waikiki Beach Resort",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "21.2824380",
+          "Longitude" : "-157.8375220"
+        }
+      },
+      "Published" : "2015-05-16T07:58:58Z",
+      "Title" : "Hilton Hawaiian Village Waikiki Beach Resort",
+      "Updated" : "2015-05-16T07:58:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -157.8292908, 21.2807195 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7812066678539804685",
+      "Location" : {
+        "Address" : "320 Lewers Street, Honolulu, HI 96815, United States",
+        "Business Name" : "Kimukatsu",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "21.2807195",
+          "Longitude" : "-157.8292908"
+        }
+      },
+      "Published" : "2015-05-16T05:33:11Z",
+      "Title" : "Kimukatsu",
+      "Updated" : "2015-05-16T05:33:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -157.859761, 21.307706 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1040+Richards+St,+Honolulu,+HI+96813&ftid=0x7c006e752739eafb:0x222142f6fb447712",
+      "Location" : {
+        "Latitude" : "21.307706",
+        "Longitude" : "-157.859761"
+      },
+      "Published" : "2015-05-15T07:29:16Z",
+      "Title" : "1040 Richards Street, Honolulu, HI 96813",
+      "Updated" : "2015-05-15T07:29:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2354220, 34.0419700 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6200198368856357791",
+      "Location" : {
+        "Address" : "451 South Hewitt Street, Los Angeles, CA 90013, United States",
+        "Business Name" : "Urth Caffé",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0419700",
+          "Longitude" : "-118.2354220"
+        }
+      },
+      "Published" : "2015-05-10T03:27:49Z",
+      "Title" : "Urth Caffé",
+      "Updated" : "2015-05-10T03:27:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.1993186, 34.1595810 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15349379262708610809",
+      "Location" : {
+        "Address" : "3800 East Glenoaks Boulevard, Glendale, CA 91206, United States",
+        "Business Name" : "Scholl Canyon Golf & Tennis Club",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1595810",
+          "Longitude" : "-118.1993186"
+        }
+      },
+      "Published" : "2015-04-01T00:07:04Z",
+      "Title" : "Scholl Canyon Golf & Tennis Club",
+      "Updated" : "2015-04-01T00:07:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.213756, 32.862781 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Camino+Kiosco,+San+Diego,+CA+92122&ftid=0x80dc00d1389ecfe5:0xe8f055c9f392b200",
+      "Location" : {
+        "Latitude" : "32.862781",
+        "Longitude" : "-117.213756"
+      },
+      "Published" : "2015-03-08T03:39:44Z",
+      "Title" : "Camino Kiosco, San Diego, CA 92122",
+      "Updated" : "2015-03-08T03:39:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2114677, 34.0482592 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12200244773612846784",
+      "Location" : {
+        "Address" : "2100 East Cesar E Chavez Avenue, Los Angeles, CA 90033, United States",
+        "Business Name" : "Guisados Tacos",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0482592",
+          "Longitude" : "-118.2114677"
+        }
+      },
+      "Published" : "2015-03-05T06:36:56Z",
+      "Title" : "Guisados Tacos",
+      "Updated" : "2015-03-05T06:36:56Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.985164, 37.517345 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=69-167+Yongsandong+6(yuk)-ga,+Yongsan-gu,+Seoul,+South+Korea&ftid=0x357ca18818d7f9dd:0xf2a9bc0057f950d9",
+      "Location" : {
+        "Latitude" : "37.517345",
+        "Longitude" : "126.985164"
+      },
+      "Published" : "2015-02-17T02:07:40Z",
+      "Title" : "69-167 Yongsandong 6(yuk)-ga, Yongsan-gu, Seoul, South Korea",
+      "Updated" : "2015-02-17T02:07:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9060990, 37.6408430 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14340687961630566253",
+      "Location" : {
+        "Address" : "53-124 Dongsan-dong, Deokyang-gu, Goyang-si, Gyeonggi-do, South Korea",
+        "Business Name" : "(주)1.2.3골프크럽",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.6408430",
+          "Longitude" : "126.9060990"
+        }
+      },
+      "Published" : "2015-02-10T06:31:44Z",
+      "Title" : "(주)1.2.3골프크럽",
+      "Updated" : "2015-02-10T06:31:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.7576968, 34.0484269 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6379809733940396634",
+      "Location" : {
+        "Address" : "3455 Solstice Canyon Road, Malibu, CA 90265, United States",
+        "Business Name" : "Solstice Canyon",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0484269",
+          "Longitude" : "-118.7576968"
+        }
+      },
+      "Published" : "2015-01-24T16:06:12Z",
+      "Title" : "Solstice Canyon",
+      "Updated" : "2015-01-24T16:06:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.494528, 34.219556 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=16644 Roscoe Blvd, Van Nuys Airport, Van Nuys, CA 91406&ftid=0x80c29a0f7da52d81:0x37d7558c2322b85c",
+      "Location" : {
+        "Latitude" : "34.219556",
+        "Longitude" : "-118.494528"
+      },
+      "Published" : "2015-01-07T23:20:17Z",
+      "Title" : "16644 Roscoe Boulevard, Van Nuys, CA 91406",
+      "Updated" : "2015-01-07T23:20:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.1282990, 34.0949401 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9996319800747535662",
+      "Location" : {
+        "Address" : "101 West Main Street, Alhambra, CA 91801, United States",
+        "Business Name" : "Shakas Hawaiian Bar and Grill",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0949401",
+          "Longitude" : "-118.1282990"
+        }
+      },
+      "Published" : "2015-01-03T20:15:13Z",
+      "Title" : "Shakas Hawaiian Flavors",
+      "Updated" : "2015-01-03T20:15:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.066485, 34.088737 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=34.088737,-118.066485",
+      "Location" : {
+        "Latitude" : "34.088737",
+        "Longitude" : "-118.066485"
+      },
+      "Published" : "2015-01-03T18:20:33Z",
+      "Title" : "34.088737,-118.066485",
+      "Updated" : "2015-01-03T18:20:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -94.549305, 38.923718 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=3535 E Red Bridge Rd, Kansas City, MO 64137&ftid=0x87c0e7c3a169771b:0xa57d220f059598f9",
+      "Location" : {
+        "Latitude" : "38.923718",
+        "Longitude" : "-94.549305"
+      },
+      "Published" : "2014-12-31T07:55:15Z",
+      "Title" : "3535 East Red Bridge Road, Kansas City, MO 64137",
+      "Updated" : "2014-12-31T07:55:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.961995, 33.898447 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2154 W Seaview Dr, Fullerton, CA 92833&ftid=0x80dd2afa5b30b8f9:0xdc7bedc3056ee602",
+      "Location" : {
+        "Latitude" : "33.898447",
+        "Longitude" : "-117.961995"
+      },
+      "Published" : "2014-12-13T06:30:41Z",
+      "Title" : "2154 West Seaview Drive, Fullerton, CA 92833",
+      "Updated" : "2014-12-13T06:30:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3322326, 34.1726573 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17454067086764533915",
+      "Location" : {
+        "Address" : "2214 West Magnolia Boulevard, Burbank, CA 91506, United States",
+        "Business Name" : "Quenelle",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1726573",
+          "Longitude" : "-118.3322326"
+        }
+      },
+      "Published" : "2014-11-08T03:04:30Z",
+      "Title" : "Quenelle",
+      "Updated" : "2014-11-08T03:04:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.068510, 33.716654 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=16910 Pacific Coast Hwy, Huntington Beach, CA 92649&ftid=0x80dd250bcd7ac009:0xa9933de844b7f408",
+      "Location" : {
+        "Latitude" : "33.716654",
+        "Longitude" : "-118.068510"
+      },
+      "Published" : "2014-10-24T20:33:53Z",
+      "Title" : "16910 Pacific Coast Hwy, Huntington Beach, CA 92649",
+      "Updated" : "2014-10-24T20:33:53Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.1032325, 34.0793324 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16219426859931372174",
+      "Location" : {
+        "Address" : "250 West Valley Boulevard Ste. J, San Gabriel, CA 91776, United States",
+        "Business Name" : "Boiling Point, San Gabriel",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0793324",
+          "Longitude" : "-118.1032325"
+        }
+      },
+      "Published" : "2014-10-17T01:09:08Z",
+      "Title" : "Boiling Point, San Gabriel",
+      "Updated" : "2014-10-17T01:09:08Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.2418879, 37.7651221 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11101465535363916554",
+      "Location" : {
+        "Address" : "1434 Park Street, Alameda, CA 94501, United States",
+        "Business Name" : "Pho Sinh Alameda",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.7651221",
+          "Longitude" : "-122.2418879"
+        }
+      },
+      "Published" : "2014-10-13T00:28:06Z",
+      "Title" : "Pho Sinh Alameda",
+      "Updated" : "2014-10-13T00:28:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.248799, 37.755025 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=400 Park St, Alameda, CA 94501&ftid=0x808f86a47ea1df8f:0x8e3c6fcfde2e95ea",
+      "Location" : {
+        "Latitude" : "37.755025",
+        "Longitude" : "-122.248799"
+      },
+      "Published" : "2014-10-12T07:56:20Z",
+      "Title" : "400 Park St, Alameda, CA 94501",
+      "Updated" : "2014-10-12T07:56:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.099012, 36.213234 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18418828845965753564",
+      "Location" : {
+        "Latitude" : "36.213234",
+        "Longitude" : "-115.099012"
+      },
+      "Published" : "2014-08-16T06:34:13Z",
+      "Title" : "Walgreen Drug Stores",
+      "Updated" : "2014-08-16T06:34:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.099012, 36.213234 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18418828845965753564",
+      "Location" : {
+        "Latitude" : "36.213234",
+        "Longitude" : "-115.099012"
+      },
+      "Published" : "2014-08-16T06:34:13Z",
+      "Title" : "Walgreen Drug Stores",
+      "Updated" : "2014-08-16T06:34:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.5355995, 34.1959755 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9551499379450433315",
+      "Location" : {
+        "Address" : "6900 Reseda Boulevard # D, Reseda, CA 91335, United States",
+        "Business Name" : "Ramen Nippon",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1959755",
+          "Longitude" : "-118.5355995"
+        }
+      },
+      "Published" : "2014-06-29T01:34:19Z",
+      "Title" : "Ramen Nippon",
+      "Updated" : "2014-06-29T01:34:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.385781, 33.840032 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=201 S Pacific Coast Hwy, Redondo Beach, CA 90277&ftid=0x80c2b4a5ca4f9587:0x2c193c46b5cac54d",
+      "Location" : {
+        "Latitude" : "33.840032",
+        "Longitude" : "-118.385781"
+      },
+      "Published" : "2014-06-28T19:09:18Z",
+      "Title" : "201 S Pacific Coast Hwy, Redondo Beach, CA 90277",
+      "Updated" : "2014-06-28T19:09:18Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.560487, 34.228923 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=19565 Parthenia St, Northridge, CA 91324&ftid=0x80c29b9ecbe9973b:0x6b69f757ae0974f5",
+      "Location" : {
+        "Latitude" : "34.228923",
+        "Longitude" : "-118.560487"
+      },
+      "Published" : "2014-06-24T16:26:27Z",
+      "Title" : "19565 Parthenia St, Northridge, CA 91324",
+      "Updated" : "2014-06-24T16:26:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.261098, 34.066935 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1525 Pizarro St, Los Angeles, CA 90026&ftid=0x80c2c706f75eaa7d:0x72cce2374302e906",
+      "Location" : {
+        "Latitude" : "34.066935",
+        "Longitude" : "-118.261098"
+      },
+      "Published" : "2014-06-15T21:03:25Z",
+      "Title" : "1525 Pizarro St, Los Angeles, CA 90026",
+      "Updated" : "2014-06-15T21:03:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.152605, 32.811269 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=3709 Convoy St, San Diego, CA 92111&ftid=0x80dbffe87c9a0f3b:0x5a6fd82c3f99ee70",
+      "Location" : {
+        "Latitude" : "32.811269",
+        "Longitude" : "-117.152605"
+      },
+      "Published" : "2014-06-14T21:20:37Z",
+      "Title" : "3709 Convoy St, San Diego, CA 92111",
+      "Updated" : "2014-06-14T21:20:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.335509, 33.823103 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2814+W+Sepulveda+Blvd,+Torrance,+CA+90505&ftid=0x80dd4adcc6e0abf1:0x9fb66d55ac7a9269",
+      "Location" : {
+        "Latitude" : "33.823103",
+        "Longitude" : "-118.335509"
+      },
+      "Published" : "2014-05-31T02:11:09Z",
+      "Title" : "2814 W Sepulveda Blvd, Torrance, CA 90505",
+      "Updated" : "2014-05-31T02:11:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.238401, 39.177179 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=19727 Frederick Rd, Germantown, MD 20876&ftid=0x89b62c8af0a55be1:0x9dc316beb0e8ef6e",
+      "Location" : {
+        "Latitude" : "39.177179",
+        "Longitude" : "-77.238401"
+      },
+      "Published" : "2014-05-27T00:19:57Z",
+      "Title" : "19727 Frederick Rd, Germantown, MD 20876",
+      "Updated" : "2014-05-27T00:19:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.8940049, 33.6252956 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8274832344571445382",
+      "Location" : {
+        "Address" : "1 Whitecliffs Drive, Newport Beach, CA 92660, United States",
+        "Business Name" : "Newport Aquatic Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.6252956",
+          "Longitude" : "-117.8940049"
+        }
+      },
+      "Published" : "2014-05-24T15:48:55Z",
+      "Title" : "Newport Aquatic Center Inc",
+      "Updated" : "2014-05-24T15:48:55Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.0277426, 37.5030525 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1289867280484038140",
+      "Location" : {
+        "Address" : "617-4, Yeoksam-dong, Gangnam-gu, Seoul, South Korea",
+        "Business Name" : "Brick Oven New York Pizza Gangnam Seoul",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5030525",
+          "Longitude" : "127.0277426"
+        }
+      },
+      "Published" : "2014-05-06T22:40:19Z",
+      "Title" : "Brick Oven New York Pizza Gangnam Seoul",
+      "Updated" : "2014-05-06T22:40:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -107.191704, 39.601413 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Hanging Lake, White River National Forest, Colorado 81601&ftid=0x8741a3e3d95bbe89:0xfd80367a403eeb16",
+      "Location" : {
+        "Latitude" : "39.601413",
+        "Longitude" : "-107.191704"
+      },
+      "Published" : "2014-04-26T13:39:01Z",
+      "Title" : "Hanging Lake",
+      "Updated" : "2014-04-26T13:39:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.9653283, 37.5338038 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1458927783719987624",
+      "Location" : {
+        "Address" : "15-2 Hangangno 2(i)-ga, Yongsan-gu, Seoul, South Korea",
+        "Business Name" : "Yongsan Electronics Market",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5338038",
+          "Longitude" : "126.9653283"
+        }
+      },
+      "Published" : "2014-04-10T19:58:35Z",
+      "Title" : "Yongsan Electronics Market",
+      "Updated" : "2014-04-10T19:58:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.773387, 37.659485 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=Jeongbalsan,+Janghang-dong,+Ilsandong-gu,+Goyang-si,+Gyeonggi-do,+South+Korea&ftid=0x357c85502ee144a3:0x462aa1608a6fdaa9",
+      "Location" : {
+        "Latitude" : "37.659485",
+        "Longitude" : "126.773387"
+      },
+      "Published" : "2014-04-01T08:11:12Z",
+      "Title" : "Jeongbalsan, Janghang-dong, Ilsandong-gu, Goyang-si, Gyeonggi-do, South Korea",
+      "Updated" : "2014-04-01T08:11:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 126.926127, 37.544709 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=283-6 Seogang-dong, Mapo-gu, Seoul, South Korea&ftid=0x357c98cebee91f85:0xe1d3e34b2634cab",
+      "Location" : {
+        "Latitude" : "37.544709",
+        "Longitude" : "126.926127"
+      },
+      "Published" : "2014-03-26T12:34:09Z",
+      "Title" : "283-6 Seogang-dong, Mapo-gu, Seoul, South Korea",
+      "Updated" : "2014-03-26T12:34:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.0229268, 37.5205746 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11968558652516569008",
+      "Location" : {
+        "Address" : "Sinsa-dong, Gangnam-gu, Seoul, South Korea",
+        "Business Name" : "Sinsa boulevard",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.5205746",
+          "Longitude" : "127.0229268"
+        }
+      },
+      "Published" : "2014-03-25T07:08:29Z",
+      "Title" : "신사동가로수길",
+      "Updated" : "2014-03-25T07:08:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.8207225, 33.0774110 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13253565911504683225",
+      "Location" : {
+        "Address" : "5760 Legacy Drive #4, Plano, TX 75024, United States",
+        "Business Name" : "Kenny's Smoke House",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.0774110",
+          "Longitude" : "-96.8207225"
+        }
+      },
+      "Published" : "2014-01-25T05:28:11Z",
+      "Title" : "Kenny's Smoke House",
+      "Updated" : "2014-01-25T05:28:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.7677000, 32.9177519 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=77950900729071634",
+      "Location" : {
+        "Address" : "12411 North Central Expressway, Dallas, TX 75243, United States",
+        "Business Name" : "Hyatt Place Dallas/Park Central",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "32.9177519",
+          "Longitude" : "-96.7677000"
+        }
+      },
+      "Published" : "2014-01-24T06:30:29Z",
+      "Title" : "Hyatt Place Dallas/Park Central",
+      "Updated" : "2014-01-24T06:30:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.7678283, 32.9110680 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10833941337066793929",
+      "Location" : {
+        "Address" : "11880 North Central Expressway, Dallas, TX 75243, United States",
+        "Business Name" : "Whataburger",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "32.9110680",
+          "Longitude" : "-96.7678283"
+        }
+      },
+      "Published" : "2014-01-24T06:02:48Z",
+      "Title" : "Whataburger",
+      "Updated" : "2014-01-24T06:02:48Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.819448, 32.940539 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=5229 Spring Valley Rd, Dallas, TX 75254&ftid=0x864c21272c9e4b6b:0x25c9dc18c1565cb6",
+      "Location" : {
+        "Latitude" : "32.940539",
+        "Longitude" : "-96.819448"
+      },
+      "Published" : "2014-01-24T05:59:47Z",
+      "Title" : "5229 Spring Valley Rd, Dallas, TX 75254",
+      "Updated" : "2014-01-24T05:59:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -157.8316876, 21.2951707 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6301488838283363495",
+      "Location" : {
+        "Address" : "1857 South King Street #208, Honolulu, HI 96826, United States",
+        "Business Name" : "Alan Wong's",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "21.2951707",
+          "Longitude" : "-157.8316876"
+        }
+      },
+      "Published" : "2014-01-20T05:40:22Z",
+      "Title" : "Alan Wong's Restaurant",
+      "Updated" : "2014-01-20T05:40:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -157.8579815, 21.3239261 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6895198183745287902",
+      "Location" : {
+        "Address" : "515 North Kuakini Street, Honolulu, HI 96817, United States",
+        "Business Name" : "Liliha Bakery",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "21.3239261",
+          "Longitude" : "-157.8579815"
+        }
+      },
+      "Published" : "2014-01-19T22:55:02Z",
+      "Title" : "Liliha Bakery",
+      "Updated" : "2014-01-19T22:55:02Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.0389321, 34.0915309 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9161375053093639675",
+      "Location" : {
+        "Address" : "10534 Lower Azusa Road, El Monte, CA 91731, United States",
+        "Business Name" : "Action Lanes",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0915309",
+          "Longitude" : "-118.0389321"
+        }
+      },
+      "Published" : "2013-12-25T04:29:45Z",
+      "Title" : "Action Lanes",
+      "Updated" : "2013-12-25T04:29:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.889852, 33.679642 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=801+Baker+St,+Costa+Mesa,+CA+92626&ftid=0x80dcdf177ddd5651:0x2600525b15d5d886",
+      "Location" : {
+        "Latitude" : "33.679642",
+        "Longitude" : "-117.889852"
+      },
+      "Published" : "2013-12-13T19:41:57Z",
+      "Title" : "801 Baker St, Costa Mesa, CA 92626",
+      "Updated" : "2013-12-13T19:41:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.8306953, 33.5679134 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=6619067395080827408",
+      "Location" : {
+        "Address" : "Shopping Center, 8112 East Coast Highway, Newport Coast, CA 92657, United States",
+        "Business Name" : "Mastro's Ocean Club",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.5679134",
+          "Longitude" : "-117.8306953"
+        }
+      },
+      "Published" : "2013-11-23T03:39:13Z",
+      "Title" : "Mastro's Ocean Club",
+      "Updated" : "2013-11-23T03:39:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.865395, 33.669940 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=4647+MacArthur+Boulevard,+Newport+Beach,+CA&ftid=0x80dcdef799f7371f:0x5c2ffe6d8e89d82b",
+      "Location" : {
+        "Latitude" : "33.669940",
+        "Longitude" : "-117.865395"
+      },
+      "Published" : "2013-11-23T01:02:35Z",
+      "Title" : "4647 MacArthur Blvd",
+      "Updated" : "2013-11-23T01:02:35Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.4060404, 34.0691473 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8551427676820769336",
+      "Location" : {
+        "Address" : "9646 South Santa Monica Boulevard, Beverly Hills, CA 90210, United States",
+        "Business Name" : "Crustacean",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0691473",
+          "Longitude" : "-118.4060404"
+        }
+      },
+      "Published" : "2013-10-20T01:09:38Z",
+      "Title" : "Crustacean",
+      "Updated" : "2013-10-20T01:09:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.7962040, 32.7824600 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17685902387477626909",
+      "Location" : {
+        "Address" : "1700 Pacific Avenue, Dallas, TX 75201, United States",
+        "Business Name" : "1700 Pacific",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "32.7824600",
+          "Longitude" : "-96.7962040"
+        }
+      },
+      "Published" : "2013-10-18T07:00:51Z",
+      "Title" : "1700 Pacific",
+      "Updated" : "2013-10-18T07:00:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.418040, 34.032492 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2999+Overland+Ave,+Los+Angeles,+CA&ftid=0x80c2bbb7b093cc2d:0xe8a0b1aae3c23456",
+      "Location" : {
+        "Latitude" : "34.032492",
+        "Longitude" : "-118.418040"
+      },
+      "Published" : "2013-10-13T00:01:58Z",
+      "Title" : "2999 Overland Ave",
+      "Updated" : "2013-10-13T00:01:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.133289, 34.062535 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=755+Garvey+Avenue,+Monterey+Park,+CA&ftid=0x80c2c55d05b2f8bf:0x870dc487d9f13128",
+      "Location" : {
+        "Latitude" : "34.062535",
+        "Longitude" : "-118.133289"
+      },
+      "Published" : "2013-10-06T18:24:04Z",
+      "Title" : "755 Garvey Ave",
+      "Updated" : "2013-10-06T18:24:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2480034, 34.1453196 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7464781840242214927",
+      "Location" : {
+        "Address" : "135 South Glendale Avenue, Glendale, CA 91205, United States",
+        "Business Name" : "Jewel City Bowl",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1453196",
+          "Longitude" : "-118.2480034"
+        }
+      },
+      "Published" : "2013-09-09T21:41:01Z",
+      "Title" : "Jewel City Bowl",
+      "Updated" : "2013-09-09T21:41:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.047707, 33.695813 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14802345333362043400",
+      "Location" : {
+        "Latitude" : "33.695813",
+        "Longitude" : "-118.047707"
+      },
+      "Published" : "2013-09-02T17:37:38Z",
+      "Title" : "Bolsa Chica Ecological Reserve",
+      "Updated" : "2013-09-02T17:37:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.047707, 33.695813 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14802345333362043400",
+      "Location" : {
+        "Latitude" : "33.695813",
+        "Longitude" : "-118.047707"
+      },
+      "Published" : "2013-09-02T17:37:38Z",
+      "Title" : "Bolsa Chica Ecological Reserve",
+      "Updated" : "2013-09-02T17:37:38Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.4465831, 34.0623816 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2528065742802913581",
+      "Location" : {
+        "Address" : "10940 Weyburn Avenue, Los Angeles, CA 90024, United States",
+        "Business Name" : "Enzo's Pizza",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0623816",
+          "Longitude" : "-118.4465831"
+        }
+      },
+      "Published" : "2013-08-28T21:27:51Z",
+      "Title" : "Enzo's Pizzeria",
+      "Updated" : "2013-08-29T17:36:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.190631, 34.094445 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=4037+monterey+road&ftid=0x80c2c43bae4b37d3:0x8e01eb50715d4b33",
+      "Location" : {
+        "Latitude" : "34.094445",
+        "Longitude" : "-118.190631"
+      },
+      "Published" : "2013-08-25T03:32:40Z",
+      "Title" : "4037 Monterey Rd, Los Angeles, CA 90032",
+      "Updated" : "2013-08-25T03:32:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.4217612, 35.7544305 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15880409139850056867",
+      "Location" : {
+        "Address" : "11252 Kernville Road, Kernville, CA 93238, United States",
+        "Business Name" : "Frandy Park Campground",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "35.7544305",
+          "Longitude" : "-118.4217612"
+        }
+      },
+      "Published" : "2013-08-10T03:04:26Z",
+      "Title" : "Frandy",
+      "Updated" : "2013-08-10T03:04:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3955144, 33.9013714 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15018500618437893495",
+      "Location" : {
+        "Address" : "3600 North Sepulveda Boulevard, Manhattan Beach, CA 90266, United States",
+        "Business Name" : "Fry's Electronics",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.9013714",
+          "Longitude" : "-118.3955144"
+        }
+      },
+      "Published" : "2013-08-08T01:50:00Z",
+      "Title" : "Fry's Electronics",
+      "Updated" : "2013-08-08T01:50:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.4419263, 34.0387509 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5141721727987607140",
+      "Location" : {
+        "Address" : "11301 West Olympic Boulevard #103, Los Angeles, CA 90064, United States",
+        "Business Name" : "Brian's Shave Ice",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0387509",
+          "Longitude" : "-118.4419263"
+        }
+      },
+      "Published" : "2013-07-18T18:23:57Z",
+      "Title" : "Brian's Shave Ice",
+      "Updated" : "2013-07-18T18:23:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.8660112, 33.5935260 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13268273981105844471",
+      "Location" : {
+        "Address" : "3900 East Coast Highway, Corona Del Mar, CA 92625, United States",
+        "Business Name" : "Gallo's Deli",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.5935260",
+          "Longitude" : "-117.8660112"
+        }
+      },
+      "Published" : "2013-05-18T21:19:07Z",
+      "Title" : "Gallo's Deli",
+      "Updated" : "2013-05-18T21:19:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.207554, 33.889242 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=811+S+Long+Beach+Blvd%E2%80%8E+Compton,+CA+90221&ftid=0x80c2cb5f0da59bd5:0x63000136c9325aec",
+      "Location" : {
+        "Latitude" : "33.889242",
+        "Longitude" : "-118.207554"
+      },
+      "Published" : "2013-05-18T18:31:40Z",
+      "Title" : "811 S Long Beach Blvd, Compton, CA 90221",
+      "Updated" : "2013-05-18T18:31:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.628324, 41.893433 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=626+N+State+St,+Chicago,+IL&ftid=0x880e2cad6324f2a9:0xe908a795e098061e",
+      "Location" : {
+        "Latitude" : "41.893433",
+        "Longitude" : "-87.628324"
+      },
+      "Published" : "2013-05-14T04:21:16Z",
+      "Title" : "626 N State St",
+      "Updated" : "2013-05-14T04:21:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6339367, 41.8920544 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=15919521923065765615",
+      "Location" : {
+        "Address" : "541 North Wells Street, Chicago, IL 60654, United States",
+        "Business Name" : "O'Leary's Public House",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8920544",
+          "Longitude" : "-87.6339367"
+        }
+      },
+      "Published" : "2013-05-13T21:50:40Z",
+      "Title" : "O'Leary's Public House",
+      "Updated" : "2013-05-13T21:50:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6256974, 41.8958933 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5180583909798372095",
+      "Location" : {
+        "Address" : "730 North Rush Street, Chicago, IL 60611, United States",
+        "Business Name" : "Giordano's",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8958933",
+          "Longitude" : "-87.6256974"
+        }
+      },
+      "Published" : "2013-05-13T21:48:34Z",
+      "Title" : "Giordano's",
+      "Updated" : "2013-05-13T21:48:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6337377, 41.8903544 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=8492603346710087707",
+      "Location" : {
+        "Address" : "439 North Wells Street, Chicago, IL 60654, United States",
+        "Business Name" : "Lou Malnati's Pizzeria",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8903544",
+          "Longitude" : "-87.6337377"
+        }
+      },
+      "Published" : "2013-05-11T23:58:24Z",
+      "Title" : "Lou Malnati's",
+      "Updated" : "2013-05-11T23:58:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -87.6235601, 41.8913023 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9407150740891250403",
+      "Location" : {
+        "Address" : "505 North Michigan Avenue, Chicago, IL 60611, United States",
+        "Business Name" : "InterContinental",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.8913023",
+          "Longitude" : "-87.6235601"
+        }
+      },
+      "Published" : "2013-05-07T18:06:43Z",
+      "Title" : "Intercontinental Chicago Magnificent Mile",
+      "Updated" : "2013-05-07T18:06:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.108368, 39.065986 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=12800+Veirs+Mill+Road+Rockville,+MD+20853&ftid=0x89b7cdd0d34540b1:0xa050c4e8e65c23b8",
+      "Location" : {
+        "Latitude" : "39.065986",
+        "Longitude" : "-77.108368"
+      },
+      "Published" : "2013-04-25T17:26:31Z",
+      "Title" : "12800 Veirs Mill Rd",
+      "Updated" : "2013-04-25T17:26:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.395171, 33.985319 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1391594350318223308",
+      "Location" : {
+        "Latitude" : "33.985319",
+        "Longitude" : "-118.395171"
+      },
+      "Published" : "2013-04-01T01:17:10Z",
+      "Title" : "Lucille's Smokehouse BBQ",
+      "Updated" : "2013-04-01T01:17:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.395171, 33.985319 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1391594350318223308",
+      "Location" : {
+        "Latitude" : "33.985319",
+        "Longitude" : "-118.395171"
+      },
+      "Published" : "2013-04-01T01:17:10Z",
+      "Title" : "Lucille's Smokehouse BBQ",
+      "Updated" : "2013-04-01T01:17:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3644101, 34.2006097 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5303621712294310761",
+      "Location" : {
+        "Address" : "10750 Sherman Way, Burbank, CA 91505, United States",
+        "Business Name" : "Atlantic Aviation BUR",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.2006097",
+          "Longitude" : "-118.3644101"
+        }
+      },
+      "Published" : "2013-03-16T00:47:25Z",
+      "Title" : "Atlantic Aviation",
+      "Updated" : "2013-03-16T00:47:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.8987884, 33.6026534 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10196929190278172052",
+      "Location" : {
+        "Address" : "400 Main Street, Newport Beach, CA 92661, United States",
+        "Business Name" : "Davey's Locker Whale Watching & Sportfishing",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.6026534",
+          "Longitude" : "-117.8987884"
+        }
+      },
+      "Published" : "2013-02-16T14:27:47Z",
+      "Title" : "Davey's Locker Sportfishing and Whale Watch Cruises",
+      "Updated" : "2013-02-16T14:27:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.0033000, 33.4787450 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13724325691760810594",
+      "Location" : {
+        "Address" : "3609 East Thomas Road, Phoenix, AZ 85018, United States",
+        "Business Name" : "The Home Depot",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.4787450",
+          "Longitude" : "-112.0033000"
+        }
+      },
+      "Published" : "2013-02-12T08:44:58Z",
+      "Title" : "The Home Depot - Thomas Rd",
+      "Updated" : "2013-02-12T08:44:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.4246751, 33.9971685 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17955272842699227228",
+      "Location" : {
+        "Address" : "12114 West Washington Boulevard, Los Angeles, CA 90066, United States",
+        "Business Name" : "Rutts Hawaiian Cafe & Catering",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.9971685",
+          "Longitude" : "-118.4246751"
+        }
+      },
+      "Published" : "2013-02-10T08:03:17Z",
+      "Title" : "Rutts Hawaiian Cafe",
+      "Updated" : "2013-02-10T08:03:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.796539, 33.708920 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=14601+Seron+Avenue,+Irvine,+CA&ftid=0x80dcdc6899a141a9:0x566f0e8bd7b2a2e7",
+      "Location" : {
+        "Latitude" : "33.708920",
+        "Longitude" : "-117.796539"
+      },
+      "Published" : "2012-12-27T19:23:59Z",
+      "Title" : "14601 Seron Ave",
+      "Updated" : "2012-12-27T19:23:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.074420, 33.477114 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2600+N+Central+Ave,+Phoenix,+AZ&ftid=0x872b125d1f50bf39:0x665b86cceba52009",
+      "Location" : {
+        "Latitude" : "33.477114",
+        "Longitude" : "-112.074420"
+      },
+      "Published" : "2012-12-07T18:02:34Z",
+      "Title" : "2600 N Central Ave",
+      "Updated" : "2012-12-07T18:02:34Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -112.0077881, 33.4372686 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9436507786966396482",
+      "Location" : {
+        "Address" : "3400 East Sky Harbor Boulevard, Phoenix, AZ 85034, United States",
+        "Business Name" : "Phoenix Sky Harbor International Airport",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.4372686",
+          "Longitude" : "-112.0077881"
+        }
+      },
+      "Published" : "2012-12-07T00:30:07Z",
+      "Title" : "Phoenix Sky Harbor International Airport",
+      "Updated" : "2012-12-07T00:30:07Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.7968653, 34.2851713 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10478255149887555823",
+      "Location" : {
+        "Address" : "2685 Park Center Drive # A, Simi Valley, CA 93065, United States",
+        "Business Name" : "Inter Metro Communications Inc",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.2851713",
+          "Longitude" : "-118.7968653"
+        }
+      },
+      "Published" : "2012-11-13T19:52:47Z",
+      "Title" : "Inter Metro Communications Inc",
+      "Updated" : "2012-11-13T19:52:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3257889, 34.1020096 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=16723558139054577358",
+      "Location" : {
+        "Address" : "6233 Hollywood Boulevard, Los Angeles, CA 90028, United States",
+        "Business Name" : "Pantages Theatre",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.1020096",
+          "Longitude" : "-118.3257889"
+        }
+      },
+      "Published" : "2012-10-25T01:25:47Z",
+      "Title" : "Pantages Theatre",
+      "Updated" : "2012-10-25T01:25:47Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.254931, 37.809034 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=372+Grand+Avenue,+Oakland,+CA&ftid=0x808f874f44f5f5ab:0x7185336cfd1746dc",
+      "Location" : {
+        "Latitude" : "37.809034",
+        "Longitude" : "-122.254931"
+      },
+      "Published" : "2012-10-21T02:17:01Z",
+      "Title" : "372 Grand Ave",
+      "Updated" : "2012-10-21T02:17:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.424061, 37.761434 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17705442131571064991",
+      "Location" : {
+        "Latitude" : "37.761434",
+        "Longitude" : "-122.424061"
+      },
+      "Published" : "2012-10-19T03:28:01Z",
+      "Title" : "Tartine Bakery",
+      "Updated" : "2012-10-19T03:28:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.424061, 37.761434 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=17705442131571064991",
+      "Location" : {
+        "Latitude" : "37.761434",
+        "Longitude" : "-122.424061"
+      },
+      "Published" : "2012-10-19T03:28:01Z",
+      "Title" : "Tartine Bakery",
+      "Updated" : "2012-10-19T03:28:01Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.397269, 33.741889 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=100+Terranea+Way,+Rancho+Palos+Verdes,+CA&ftid=0x80dd4eaa72c52361:0x2823f5f906fa7374",
+      "Location" : {
+        "Latitude" : "33.741889",
+        "Longitude" : "-118.397269"
+      },
+      "Published" : "2012-10-13T04:02:21Z",
+      "Title" : "100 Terranea Way",
+      "Updated" : "2012-10-13T04:02:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.1746987, 36.0650857 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=14222834945855612229",
+      "Location" : {
+        "Address" : "6845 South Las Vegas Boulevard, Las Vegas, NV 89119, United States",
+        "Business Name" : "Fry's Electronics",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "36.0650857",
+          "Longitude" : "-115.1746987"
+        }
+      },
+      "Published" : "2012-09-24T15:56:10Z",
+      "Title" : "Fry's Electronics, Inc.",
+      "Updated" : "2012-09-24T15:56:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.0099288, 37.3233562 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=2097292003347285189",
+      "Location" : {
+        "Address" : "19379 Stevens Creek Boulevard, Cupertino, CA 95014, United States",
+        "Business Name" : "Alexander's Steakhouse",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.3233562",
+          "Longitude" : "-122.0099288"
+        }
+      },
+      "Published" : "2012-08-24T07:51:30Z",
+      "Title" : "Alexander's Steakhouse",
+      "Updated" : "2012-08-24T07:51:30Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.553386, 34.276333 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=19216+Singing+Hills+Drive,+Los+Angeles,+CA&ftid=0x80c29b34d49dc57f:0x2c05154521928873",
+      "Location" : {
+        "Latitude" : "34.276333",
+        "Longitude" : "-118.553386"
+      },
+      "Published" : "2012-05-05T23:34:14Z",
+      "Title" : "19216 Singing Hills Dr",
+      "Updated" : "2012-05-05T23:34:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.952290, 33.893932 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2140+Camino+Rey,+Fullerton,+CA+92833&ftid=0x80dd2af5896de1f3:0x4e68c04d4bae10ea",
+      "Location" : {
+        "Latitude" : "33.893932",
+        "Longitude" : "-117.952290"
+      },
+      "Published" : "2012-05-04T17:58:52Z",
+      "Title" : "2140 Camino Rey, Fullerton, CA 92833",
+      "Updated" : "2012-05-04T17:58:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.315866, 33.808355 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2042+238th+Street,+Torrance,+CA&ftid=0x80dd4a89488905db:0x9b385a824b483ac1",
+      "Location" : {
+        "Latitude" : "33.808355",
+        "Longitude" : "-118.315866"
+      },
+      "Published" : "2012-04-29T22:08:22Z",
+      "Title" : "2042 238th St",
+      "Updated" : "2012-04-29T22:08:22Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.7069510, 33.0161200 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=5417542605339363499",
+      "Location" : {
+        "Address" : "1224 North Central Expressway, Plano, TX 75074, United States",
+        "Business Name" : "The Home Depot",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.0161200",
+          "Longitude" : "-96.7069510"
+        }
+      },
+      "Published" : "2012-02-14T02:25:04Z",
+      "Title" : "The Home Depot",
+      "Updated" : "2012-02-14T02:25:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.7044583, 33.0061260 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=1124690532702928266",
+      "Location" : {
+        "Address" : "700 East Plano Parkway, Plano, TX 75074, United States",
+        "Business Name" : "Fry's Electronics",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.0061260",
+          "Longitude" : "-96.7044583"
+        }
+      },
+      "Published" : "2012-02-14T01:45:19Z",
+      "Title" : "Fry's Electronics",
+      "Updated" : "2012-02-14T01:45:19Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.722882, 32.971566 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1702+n+collins,+richardson,+tx&ftid=0x864c1f39543db367:0x10d14c82be24de61",
+      "Location" : {
+        "Latitude" : "32.971566",
+        "Longitude" : "-96.722882"
+      },
+      "Published" : "2012-02-13T04:25:44Z",
+      "Title" : "1702 N Collins Blvd",
+      "Updated" : "2012-02-13T04:25:44Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -96.753423, 33.106130 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.10613,-96.753423",
+      "Location" : {
+        "Latitude" : "33.106130",
+        "Longitude" : "-96.753423"
+      },
+      "Published" : "2012-02-13T04:01:58Z",
+      "Title" : "3116 Austin Dr",
+      "Updated" : "2012-02-13T04:01:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.127384, 34.084778 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1000+South+4th+Street,+Alhambra,+CA&ftid=0x80c2c53b06fd4a31:0x38557c71baa14337",
+      "Location" : {
+        "Latitude" : "34.084778",
+        "Longitude" : "-118.127384"
+      },
+      "Published" : "2011-12-28T11:39:14Z",
+      "Title" : "1000 S 4th St",
+      "Updated" : "2011-12-28T11:39:14Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.492722, 34.157930 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=16501 Ventura Blvd, encino, ca",
+      "Location" : {
+        "Latitude" : "34.157930",
+        "Longitude" : "-118.492722"
+      },
+      "Published" : "2011-12-05T20:01:12Z",
+      "Title" : "16501 Ventura Blvd",
+      "Updated" : "2011-12-05T20:01:12Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.092652, 33.917758 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=11300 Firestone Blvd. Norwalk,                 CA 90650",
+      "Location" : {
+        "Latitude" : "33.917758",
+        "Longitude" : "-118.092652"
+      },
+      "Published" : "2011-12-03T20:39:39Z",
+      "Title" : "11300 Firestone Blvd",
+      "Updated" : "2011-12-03T20:39:39Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.159960, 34.048762 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1200 Monterey Pass Road, Monterey Park, CA",
+      "Location" : {
+        "Latitude" : "34.048762",
+        "Longitude" : "-118.159960"
+      },
+      "Published" : "2011-11-10T06:56:33Z",
+      "Title" : "1200 Monterey Pass Rd",
+      "Updated" : "2011-11-10T06:56:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.070528, 33.854121 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.854121,-118.070528",
+      "Location" : {
+        "Latitude" : "33.854121",
+        "Longitude" : "-118.070528"
+      },
+      "Published" : "2011-10-29T20:15:29Z",
+      "Title" : "12254 Bingham St",
+      "Updated" : "2011-10-29T20:15:29Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.070762, 33.911545 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=13111 Sycamore Drive, Norwalk, CA",
+      "Location" : {
+        "Latitude" : "33.911545",
+        "Longitude" : "-118.070762"
+      },
+      "Published" : "2011-10-24T21:22:04Z",
+      "Title" : "13111 Sycamore Dr",
+      "Updated" : "2011-10-24T21:22:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.883722, 33.874439 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2601 e chapman, Fullerton",
+      "Location" : {
+        "Latitude" : "33.874439",
+        "Longitude" : "-117.883722"
+      },
+      "Published" : "2011-10-08T21:55:16Z",
+      "Title" : "2601 E Chapman Ave",
+      "Updated" : "2011-10-08T21:55:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.909733, 34.001004 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=18045 Rowland Street, Industry, CA",
+      "Location" : {
+        "Latitude" : "34.001004",
+        "Longitude" : "-117.909733"
+      },
+      "Published" : "2011-09-26T19:50:37Z",
+      "Title" : "18045 Rowland St",
+      "Updated" : "2011-09-26T19:50:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.3728146, 34.2363948 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=484144074306198977",
+      "Location" : {
+        "Address" : "9200 Glenoaks Boulevard, Sun Valley, CA 91352, United States",
+        "Business Name" : "OnTrac Drop Box",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.2363948",
+          "Longitude" : "-118.3728146"
+        }
+      },
+      "Published" : "2011-09-21T13:47:49Z",
+      "Title" : "Ontrac",
+      "Updated" : "2011-09-21T13:47:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -156.4652564, 20.8906075 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12766727800637930406",
+      "Location" : {
+        "Address" : "70 East Kaahumanu Avenue C13, Kahului, HI 96732, United States",
+        "Business Name" : "Tasaka Guri Guri Shop",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "20.8906075",
+          "Longitude" : "-156.4652564"
+        }
+      },
+      "Published" : "2011-08-21T23:16:40Z",
+      "Title" : "Tasaka Guri Guri Shop",
+      "Updated" : "2011-08-21T23:16:40Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -156.458968, 20.769874 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=515 S. Kihei Road     Kihei, HI 96753",
+      "Location" : {
+        "Latitude" : "20.769874",
+        "Longitude" : "-156.458968"
+      },
+      "Published" : "2011-08-20T08:01:27Z",
+      "Title" : "515 S Kihei Rd",
+      "Updated" : "2011-08-20T08:01:27Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -155.080595, 19.716579 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=80 Hoku Street, Hilo, HI",
+      "Location" : {
+        "Latitude" : "19.716579",
+        "Longitude" : "-155.080595"
+      },
+      "Published" : "2011-08-20T02:38:17Z",
+      "Title" : "80 Hoku St",
+      "Updated" : "2011-08-20T02:38:17Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.372733, 33.771582 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=550 Deep Valley Drive, Rolling Hills Estates, CA",
+      "Location" : {
+        "Latitude" : "33.771582",
+        "Longitude" : "-118.372733"
+      },
+      "Published" : "2011-08-03T19:00:54Z",
+      "Title" : "550 Deep Valley Dr",
+      "Updated" : "2011-08-03T19:00:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.031271, 33.885766 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=14111 freeway dr, santa fe springs",
+      "Location" : {
+        "Latitude" : "33.885766",
+        "Longitude" : "-118.031271"
+      },
+      "Published" : "2011-08-03T18:36:24Z",
+      "Title" : "14111 Freeway Dr",
+      "Updated" : "2011-08-03T18:36:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.2919370, 34.0353500 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=11467736111878530535",
+      "Location" : {
+        "Address" : "2241 South Vermont Avenue, Los Angeles, CA 90007, United States",
+        "Business Name" : "Vermont Auto Center",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0353500",
+          "Longitude" : "-118.2919370"
+        }
+      },
+      "Published" : "2011-08-01T14:59:00Z",
+      "Title" : "Vermont Auto Center",
+      "Updated" : "2011-08-01T14:59:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.334744, 33.753360 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=47 Eastfield Drive, Rolling Hills, CA",
+      "Location" : {
+        "Latitude" : "33.753360",
+        "Longitude" : "-118.334744"
+      },
+      "Published" : "2011-08-01T06:45:51Z",
+      "Title" : "47 Eastfield Dr",
+      "Updated" : "2011-08-01T06:45:51Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.6833903, 34.3769445 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=18134683080406871108",
+      "Location" : {
+        "Address" : "Wrightwood, CA 92397, United States",
+        "Business Name" : "Kare Camp Campground",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.3769445",
+          "Longitude" : "-117.6833903"
+        }
+      },
+      "Published" : "2011-06-23T20:07:20Z",
+      "Title" : "Kare Camp Campground",
+      "Updated" : "2011-06-23T20:07:20Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.954677, 33.668233 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=20281 Running Springs Lane, Huntington Beach, CA",
+      "Location" : {
+        "Latitude" : "33.668233",
+        "Longitude" : "-117.954677"
+      },
+      "Published" : "2011-06-22T20:12:24Z",
+      "Title" : "20281 Running Springs Ln",
+      "Updated" : "2011-06-22T20:12:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.639449, 34.364120 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=24557 hwy 2, Wrightwood",
+      "Location" : {
+        "Latitude" : "34.364120",
+        "Longitude" : "-117.639449"
+      },
+      "Published" : "2011-06-22T19:04:54Z",
+      "Title" : "California 2",
+      "Updated" : "2011-06-22T19:04:54Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.207745, 33.772674 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=555 Pico Avenue, Long Beach, CA",
+      "Location" : {
+        "Latitude" : "33.772674",
+        "Longitude" : "-118.207745"
+      },
+      "Published" : "2011-06-19T10:21:32Z",
+      "Title" : "555 Pico Ave",
+      "Updated" : "2011-06-19T10:21:32Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.8929633, 33.8971232 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=3448172406455739794",
+      "Location" : {
+        "Address" : "2000 Bastanchury Road, Fullerton, CA 92835, United States",
+        "Business Name" : "Summit House Restaurant",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "33.8971232",
+          "Longitude" : "-117.8929633"
+        }
+      },
+      "Published" : "2011-03-28T19:13:37Z",
+      "Title" : "Summit House Restaurant",
+      "Updated" : "2011-03-28T19:13:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ 127.5132989, 37.8179027 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=9081620575539984308",
+      "Location" : {
+        "Address" : "113 Daegok-ri, Gapyeong-eup, Gapyeong-gun, Gyeonggi-do, South Korea",
+        "Business Name" : "가평종합고등학교",
+        "Country Code" : "KR",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8179027",
+          "Longitude" : "127.5132989"
+        }
+      },
+      "Published" : "2011-03-21T18:58:37Z",
+      "Title" : "가평종합고등학교",
+      "Updated" : "2011-03-21T18:58:37Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.926506, 34.020395 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=one industry hills way, city of industy",
+      "Location" : {
+        "Latitude" : "34.020395",
+        "Longitude" : "-117.926506"
+      },
+      "Published" : "2011-03-18T23:39:10Z",
+      "Title" : "1 Industry Hills Pkwy",
+      "Updated" : "2011-03-18T23:39:10Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.382401, 39.358143 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=4424 a urbana pike, frederick md",
+      "Location" : {
+        "Latitude" : "39.358143",
+        "Longitude" : "-77.382401"
+      },
+      "Published" : "2010-11-06T21:02:04Z",
+      "Title" : "4424 Urbana Pike",
+      "Updated" : "2010-11-06T21:02:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.410736, 39.416183 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=141 n market st, frederick, md",
+      "Location" : {
+        "Latitude" : "39.416183",
+        "Longitude" : "-77.410736"
+      },
+      "Published" : "2010-11-06T21:01:41Z",
+      "Title" : "141 N Market St",
+      "Updated" : "2010-11-06T21:01:41Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.504181, 34.243958 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=13762 middle fork rd, lytle creek, ca 92358",
+      "Location" : {
+        "Latitude" : "34.243958",
+        "Longitude" : "-117.504181"
+      },
+      "Published" : "2010-09-02T16:32:26Z",
+      "Title" : "13762 Middle Fork Rd",
+      "Updated" : "2010-09-02T16:32:26Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.879272, 33.913059 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=429 South Associated Rd. Brea, CA 92821",
+      "Location" : {
+        "Latitude" : "33.913059",
+        "Longitude" : "-117.879272"
+      },
+      "Published" : "2010-08-31T18:32:11Z",
+      "Title" : "429 S Associated Rd",
+      "Updated" : "2010-08-31T18:32:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -121.5004140, 38.6375480 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=707969942085824362",
+      "Location" : {
+        "Address" : "140 Promenade Circle, Sacramento, CA 95834, United States",
+        "Business Name" : "Staybridge Suites Sacramento Airport Natomas",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "38.6375480",
+          "Longitude" : "-121.5004140"
+        }
+      },
+      "Published" : "2010-08-19T06:13:06Z",
+      "Title" : "Staybridge Suites Extended Stay Hotel Sacramento Natomas",
+      "Updated" : "2010-08-19T06:13:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.478577, 37.853638 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.853638,-122.47858",
+      "Location" : {
+        "Latitude" : "37.853638",
+        "Longitude" : "-122.478577"
+      },
+      "Published" : "2010-08-19T03:43:57Z",
+      "Title" : "558 Bridgeway",
+      "Updated" : "2010-08-19T03:43:57Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.478119, 37.858608 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.858609,-122.478118",
+      "Location" : {
+        "Latitude" : "37.858608",
+        "Longitude" : "-122.478119"
+      },
+      "Published" : "2010-08-19T03:41:58Z",
+      "Title" : "100 Spinnaker Dr",
+      "Updated" : "2010-08-19T03:41:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.418846, 37.802094 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=37.802093,-122.418848",
+      "Location" : {
+        "Latitude" : "37.802094",
+        "Longitude" : "-122.418846"
+      },
+      "Published" : "2010-08-18T16:49:28Z",
+      "Title" : "1055 Lombard St",
+      "Updated" : "2010-08-18T16:49:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.413506, 37.787659 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=708 Post Street San Francisco, Ca 94109",
+      "Location" : {
+        "Latitude" : "37.787659",
+        "Longitude" : "-122.413506"
+      },
+      "Published" : "2010-08-18T04:14:17Z",
+      "Title" : "708 Post St",
+      "Updated" : "2010-08-18T14:18:23Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.484450, 37.782162 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7187118085663016286",
+      "Location" : {
+        "Latitude" : "37.782162",
+        "Longitude" : "-122.484450"
+      },
+      "Published" : "2010-08-18T07:10:24Z",
+      "Title" : "PPQ Dungeness Island",
+      "Updated" : "2010-08-18T07:10:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.484450, 37.782162 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=7187118085663016286",
+      "Location" : {
+        "Latitude" : "37.782162",
+        "Longitude" : "-122.484450"
+      },
+      "Published" : "2010-08-18T07:10:24Z",
+      "Title" : "PPQ Dungeness Island",
+      "Updated" : "2010-08-18T07:10:24Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -122.4947031, 37.8618454 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=816977402542136993",
+      "Location" : {
+        "Address" : "1917 Bridgeway, Sausalito, CA 94965, United States",
+        "Business Name" : "FRED'S Place",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "37.8618454",
+          "Longitude" : "-122.4947031"
+        }
+      },
+      "Published" : "2010-08-18T07:04:04Z",
+      "Title" : "Freds Place Coffee Shop",
+      "Updated" : "2010-08-18T07:04:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.063698, 33.867172 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.867172,-118.063698",
+      "Location" : {
+        "Latitude" : "33.867172",
+        "Longitude" : "-118.063698"
+      },
+      "Published" : "2010-08-16T22:50:13Z",
+      "Title" : "33.867172,-118.063698",
+      "Updated" : "2010-08-16T22:50:13Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.914070, 33.834572 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.834572,-117.914070",
+      "Location" : {
+        "Latitude" : "33.834572",
+        "Longitude" : "-117.914070"
+      },
+      "Published" : "2010-08-16T05:36:50Z",
+      "Title" : "33.834572,-117.914070",
+      "Updated" : "2010-08-16T05:36:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.912602, 33.834534 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12354374562246252637",
+      "Location" : {
+        "Latitude" : "33.834534",
+        "Longitude" : "-117.912602"
+      },
+      "Published" : "2010-08-16T05:36:49Z",
+      "Title" : "Anaheim City Hall",
+      "Updated" : "2010-08-16T05:36:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.912602, 33.834534 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12354374562246252637",
+      "Location" : {
+        "Latitude" : "33.834534",
+        "Longitude" : "-117.912602"
+      },
+      "Published" : "2010-08-16T05:36:49Z",
+      "Title" : "Anaheim City Hall",
+      "Updated" : "2010-08-16T05:36:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.912602, 33.834534 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=12354374562246252637",
+      "Location" : {
+        "Latitude" : "33.834534",
+        "Longitude" : "-117.912602"
+      },
+      "Published" : "2010-08-16T05:36:49Z",
+      "Title" : "Anaheim City Hall",
+      "Updated" : "2010-08-16T05:36:49Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.037155, 33.849041 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.849041,-118.037155",
+      "Location" : {
+        "Latitude" : "33.849041",
+        "Longitude" : "-118.037155"
+      },
+      "Published" : "2010-08-16T05:33:15Z",
+      "Title" : "33.849041,-118.037155",
+      "Updated" : "2010-08-16T05:33:15Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.995918, 33.863762 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.863762,-117.995918",
+      "Location" : {
+        "Latitude" : "33.863762",
+        "Longitude" : "-117.995918"
+      },
+      "Published" : "2010-08-16T05:32:11Z",
+      "Title" : "33.863762,-117.995918",
+      "Updated" : "2010-08-16T05:32:11Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.079697, 33.860138 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.860138,-118.079697",
+      "Location" : {
+        "Latitude" : "33.860138",
+        "Longitude" : "-118.079697"
+      },
+      "Published" : "2010-08-16T05:31:21Z",
+      "Title" : "33.860138,-118.079697",
+      "Updated" : "2010-08-16T05:31:21Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.009766, 33.843727 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=8150 knott ave, buena park",
+      "Location" : {
+        "Latitude" : "33.843727",
+        "Longitude" : "-118.009766"
+      },
+      "Published" : "2010-08-12T20:33:59Z",
+      "Title" : "8150 Knott Ave",
+      "Updated" : "2010-08-12T20:33:59Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.982307, 33.880325 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=5530 emerywood , buena park",
+      "Location" : {
+        "Latitude" : "33.880325",
+        "Longitude" : "-117.982307"
+      },
+      "Published" : "2010-08-08T21:12:45Z",
+      "Title" : "5530 Emerywood Dr",
+      "Updated" : "2010-08-08T21:12:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.824135, 34.080914 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1645 avenida entrada",
+      "Location" : {
+        "Latitude" : "34.080914",
+        "Longitude" : "-117.824135"
+      },
+      "Published" : "2010-07-25T00:09:28Z",
+      "Title" : "1645 Avenida Entrada",
+      "Updated" : "2010-07-25T00:09:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.896484, 33.922909 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=270 N Brea Blvd, Brea, CA 92821",
+      "Location" : {
+        "Latitude" : "33.922909",
+        "Longitude" : "-117.896484"
+      },
+      "Published" : "2010-07-21T20:19:25Z",
+      "Title" : "270 N Brea Blvd",
+      "Updated" : "2010-07-21T20:19:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.053169, 34.057465 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=2503 Seaman Ave, South El Monte, CA 91733",
+      "Location" : {
+        "Latitude" : "34.057465",
+        "Longitude" : "-118.053169"
+      },
+      "Published" : "2010-07-19T19:56:04Z",
+      "Title" : "2503 Seaman Ave",
+      "Updated" : "2010-07-19T19:56:04Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.073166, 38.837883 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=703 Grandview Dr, Alexandria, Virginia 22305",
+      "Location" : {
+        "Latitude" : "38.837883",
+        "Longitude" : "-77.073166"
+      },
+      "Published" : "2010-07-10T16:02:31Z",
+      "Title" : "703 Grandview Dr, Alexandria, VA 22305",
+      "Updated" : "2010-07-10T16:02:31Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.073166, 38.837883 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=703 grandview drive, alexandria, va",
+      "Location" : {
+        "Latitude" : "38.837883",
+        "Longitude" : "-77.073166"
+      },
+      "Published" : "2010-07-10T15:53:25Z",
+      "Title" : "703 Grandview Dr, Alexandria, VA 22305",
+      "Updated" : "2010-07-10T15:53:25Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.841888, 33.787350 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1110 East Chapman Avenue, Suite #207, Orange 92866",
+      "Location" : {
+        "Latitude" : "33.787350",
+        "Longitude" : "-117.841888"
+      },
+      "Published" : "2010-06-29T17:57:43Z",
+      "Title" : "1110 E Chapman Ave #207, Orange, CA 92866",
+      "Updated" : "2010-06-29T17:57:43Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.346695, 34.247711 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=9856 sunland blvd",
+      "Location" : {
+        "Latitude" : "34.247711",
+        "Longitude" : "-118.346695"
+      },
+      "Published" : "2010-06-11T23:14:33Z",
+      "Title" : "9856 Sunland Blvd",
+      "Updated" : "2010-06-11T23:14:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.430435, 34.027462 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=7151 Sierra Ave, Riverside, California 92509",
+      "Location" : {
+        "Latitude" : "34.027462",
+        "Longitude" : "-117.430435"
+      },
+      "Published" : "2010-06-03T03:24:09Z",
+      "Title" : "7151 Sierra Ave, Riverside, CA 92509",
+      "Updated" : "2010-06-03T03:24:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.1300412, 34.0364657 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4534151139005859922",
+      "Location" : {
+        "Address" : "2300 Garfield Avenue South D, Monterey Park, CA 91754, United States",
+        "Business Name" : "Shakas",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "34.0364657",
+          "Longitude" : "-118.1300412"
+        }
+      },
+      "Published" : "2010-05-19T18:52:58Z",
+      "Title" : "Shakas",
+      "Updated" : "2010-05-19T18:52:58Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.919907, 33.862682 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=33.862682,-117.919907",
+      "Location" : {
+        "Latitude" : "33.862682",
+        "Longitude" : "-117.919907"
+      },
+      "Published" : "2010-05-16T07:33:50Z",
+      "Title" : "33.862682,-117.919907",
+      "Updated" : "2010-05-16T07:33:50Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.002800, 33.858192 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=7041 Western Ave Buena Park, CA 90621",
+      "Location" : {
+        "Latitude" : "33.858192",
+        "Longitude" : "-118.002800"
+      },
+      "Published" : "2010-04-29T17:10:45Z",
+      "Title" : "7041 Western Ave",
+      "Updated" : "2010-04-29T17:10:45Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.592773, 34.189743 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=21200 kittridge st, woodland hills, ca",
+      "Location" : {
+        "Latitude" : "34.189743",
+        "Longitude" : "-118.592773"
+      },
+      "Published" : "2010-04-24T05:24:52Z",
+      "Title" : "21200 Kittridge St",
+      "Updated" : "2010-04-24T05:24:52Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.027420, 38.895000 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=38.895000,-77.027420",
+      "Location" : {
+        "Latitude" : "38.895000",
+        "Longitude" : "-77.027420"
+      },
+      "Published" : "2010-04-20T14:07:00Z",
+      "Title" : "38.895000,-77.027420",
+      "Updated" : "2010-04-20T14:07:00Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.058937, 39.158737 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=18644 Clovercrest Cir, Olney, MD 20832",
+      "Location" : {
+        "Latitude" : "39.158737",
+        "Longitude" : "-77.058937"
+      },
+      "Published" : "2010-04-19T04:41:28Z",
+      "Title" : "18644 Clovercrest Cir",
+      "Updated" : "2010-04-19T04:41:28Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -77.088181, 38.861702 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=3030 columbia pike",
+      "Location" : {
+        "Latitude" : "38.861702",
+        "Longitude" : "-77.088181"
+      },
+      "Published" : "2010-04-18T21:49:33Z",
+      "Title" : "3030 Columbia Pike",
+      "Updated" : "2010-04-18T21:49:33Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -118.002800, 33.858192 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=7041 western ave , buena park",
+      "Location" : {
+        "Latitude" : "33.858192",
+        "Longitude" : "-118.002800"
+      },
+      "Published" : "2010-04-09T18:46:09Z",
+      "Title" : "7041 Western Ave",
+      "Updated" : "2010-04-09T18:46:09Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.206067, 36.125044 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4301534824123027003",
+      "Location" : {
+        "Latitude" : "36.125044",
+        "Longitude" : "-115.206067"
+      },
+      "Published" : "2010-03-27T20:45:06Z",
+      "Title" : "Pho So 1",
+      "Updated" : "2010-03-27T20:45:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -115.206067, 36.125044 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=4301534824123027003",
+      "Location" : {
+        "Latitude" : "36.125044",
+        "Longitude" : "-115.206067"
+      },
+      "Published" : "2010-03-27T20:45:06Z",
+      "Title" : "Pho So 1",
+      "Updated" : "2010-03-27T20:45:06Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -116.0747322, 35.2658675 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=10555603447849995204",
+      "Location" : {
+        "Address" : "72112 Baker Boulevard, Baker, CA 92309, United States",
+        "Business Name" : "The Mad Greek",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "35.2658675",
+          "Longitude" : "-116.0747322"
+        }
+      },
+      "Published" : "2010-03-27T02:15:05Z",
+      "Title" : "Mad Greek",
+      "Updated" : "2010-03-27T02:15:05Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.968895, 33.916195 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1251 s beach, la habra",
+      "Location" : {
+        "Latitude" : "33.916195",
+        "Longitude" : "-117.968895"
+      },
+      "Published" : "2010-02-25T05:09:16Z",
+      "Title" : "1251 S Beach Blvd",
+      "Updated" : "2010-02-25T05:09:16Z"
+    },
+    "type" : "Feature"
+  }, {
+    "geometry" : {
+      "coordinates" : [ -117.853645, 33.731140 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?q=1300 s grand ave, santa ana",
+      "Location" : {
+        "Latitude" : "33.731140",
+        "Longitude" : "-117.853645"
+      },
+      "Published" : "2010-02-25T05:06:22Z",
+      "Title" : "1300 S Grand Ave",
+      "Updated" : "2010-02-25T05:06:22Z"
+    },
+    "type" : "Feature"
+  } ]
+}
