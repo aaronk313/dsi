@@ -1,0 +1,3888 @@
+{
+  "locations" : [ {
+    "timestampMs" : "1478570841663",
+    "latitudeE7" : 340663858,
+    "longitudeE7" : -1183147773,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "altitude" : 63,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478570841018",
+    "latitudeE7" : 340663914,
+    "longitudeE7" : -1183147597,
+    "accuracy" : 34
+  }, {
+    "timestampMs" : "1478568219157",
+    "latitudeE7" : 340364019,
+    "longitudeE7" : -1183089781,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 238,
+    "altitude" : 58,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478558633669",
+    "latitudeE7" : 340312273,
+    "longitudeE7" : -1182658982,
+    "accuracy" : 53
+  }, {
+    "timestampMs" : "1478556377616",
+    "latitudeE7" : 340314015,
+    "longitudeE7" : -1182657219,
+    "accuracy" : 77,
+    "altitude" : 63,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478554824882",
+    "latitudeE7" : 340313271,
+    "longitudeE7" : -1182665300,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 305,
+    "altitude" : 56,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1478537841288",
+    "latitudeE7" : 340313845,
+    "longitudeE7" : -1182666184,
+    "accuracy" : 62
+  }, {
+    "timestampMs" : "1478537822731",
+    "latitudeE7" : 340328066,
+    "longitudeE7" : -1182619366,
+    "accuracy" : 2000,
+    "altitude" : 61,
+    "verticalAccuracy" : 20
+  }, {
+    "timestampMs" : "1478534814107",
+    "latitudeE7" : 340525060,
+    "longitudeE7" : -1182982649,
+    "accuracy" : 10,
+    "altitude" : 34,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478502662000",
+    "latitudeE7" : 340664167,
+    "longitudeE7" : -1183147946,
+    "accuracy" : 27
+  }, {
+    "timestampMs" : "1478497199201",
+    "latitudeE7" : 340666318,
+    "longitudeE7" : -1183149161,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 48,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478492141999",
+    "latitudeE7" : 340664442,
+    "longitudeE7" : -1183149409,
+    "accuracy" : 77
+  }, {
+    "timestampMs" : "1478492123491",
+    "latitudeE7" : 340669286,
+    "longitudeE7" : -1183182198,
+    "accuracy" : 1061,
+    "altitude" : 57,
+    "verticalAccuracy" : 20
+  }, {
+    "timestampMs" : "1478488861999",
+    "latitudeE7" : 340565702,
+    "longitudeE7" : -1183093892,
+    "accuracy" : 96
+  }, {
+    "timestampMs" : "1478488847999",
+    "latitudeE7" : 340561405,
+    "longitudeE7" : -1183098104,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 57,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478488590021",
+    "latitudeE7" : 340561185,
+    "longitudeE7" : -1183098544,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 57,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478487158000",
+    "latitudeE7" : 340580383,
+    "longitudeE7" : -1183091905,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 182,
+    "altitude" : 62,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478487156035",
+    "latitudeE7" : 340568477,
+    "longitudeE7" : -1183091436,
+    "accuracy" : 101
+  }, {
+    "timestampMs" : "1478486926000",
+    "latitudeE7" : 340629506,
+    "longitudeE7" : -1183092247,
+    "accuracy" : 60
+  }, {
+    "timestampMs" : "1478486912000",
+    "latitudeE7" : 340630449,
+    "longitudeE7" : -1183096541,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 181,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478483492000",
+    "latitudeE7" : 340628668,
+    "longitudeE7" : -1183088755,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 65,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478483481822",
+    "latitudeE7" : 340628917,
+    "longitudeE7" : -1183089074,
+    "accuracy" : 50
+  }, {
+    "timestampMs" : "1478482937000",
+    "latitudeE7" : 340630227,
+    "longitudeE7" : -1183102259,
+    "accuracy" : 10,
+    "velocity" : 5,
+    "heading" : 181,
+    "altitude" : 65,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478482812999",
+    "latitudeE7" : 340617575,
+    "longitudeE7" : -1183051807,
+    "accuracy" : 10,
+    "velocity" : 7,
+    "heading" : 283,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478482663634",
+    "latitudeE7" : 340617708,
+    "longitudeE7" : -1182938573,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 266,
+    "altitude" : 75,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478482540820",
+    "latitudeE7" : 340615115,
+    "longitudeE7" : -1182834756,
+    "accuracy" : 10,
+    "velocity" : 13,
+    "heading" : 304,
+    "altitude" : 87,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478482510309",
+    "latitudeE7" : 340603985,
+    "longitudeE7" : -1182809561,
+    "accuracy" : 53
+  }, {
+    "timestampMs" : "1478482187767",
+    "latitudeE7" : 340605357,
+    "longitudeE7" : -1182814835,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 219,
+    "altitude" : 90,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478482035058",
+    "latitudeE7" : 340592397,
+    "longitudeE7" : -1182818602,
+    "accuracy" : 89,
+    "altitude" : 87,
+    "verticalAccuracy" : 13
+  }, {
+    "timestampMs" : "1478481891683",
+    "latitudeE7" : 340605002,
+    "longitudeE7" : -1182806283,
+    "accuracy" : 65,
+    "altitude" : 87,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478475729229",
+    "latitudeE7" : 340607167,
+    "longitudeE7" : -1182811442,
+    "accuracy" : 65,
+    "altitude" : 86,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478475354000",
+    "latitudeE7" : 340599138,
+    "longitudeE7" : -1182811518,
+    "accuracy" : 45,
+    "velocity" : 0,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478471655005",
+    "latitudeE7" : 340598299,
+    "longitudeE7" : -1182808428,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 205,
+    "altitude" : 92,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478471040000",
+    "latitudeE7" : 340608226,
+    "longitudeE7" : -1182808178,
+    "accuracy" : 100,
+    "velocity" : 1,
+    "heading" : 18,
+    "altitude" : 88,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478470149999",
+    "latitudeE7" : 340606285,
+    "longitudeE7" : -1182811616,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "heading" : 306,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478468155999",
+    "latitudeE7" : 340605361,
+    "longitudeE7" : -1182805031,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478468025999",
+    "latitudeE7" : 340603172,
+    "longitudeE7" : -1182811020,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478467835016",
+    "latitudeE7" : 340600314,
+    "longitudeE7" : -1182818169,
+    "accuracy" : 10,
+    "velocity" : 5,
+    "heading" : 270,
+    "altitude" : 92,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478467058000",
+    "latitudeE7" : 340603770,
+    "longitudeE7" : -1182809423,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478466825999",
+    "latitudeE7" : 340594181,
+    "longitudeE7" : -1182814774,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 92,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478465617860",
+    "latitudeE7" : 340607088,
+    "longitudeE7" : -1182810792,
+    "accuracy" : 65,
+    "altitude" : 85,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478464318796",
+    "latitudeE7" : 340608815,
+    "longitudeE7" : -1182807008,
+    "accuracy" : 65,
+    "altitude" : 87,
+    "verticalAccuracy" : 11
+  }, {
+    "timestampMs" : "1478464120000",
+    "latitudeE7" : 340599116,
+    "longitudeE7" : -1182816061,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 7,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478464040209",
+    "latitudeE7" : 340603962,
+    "longitudeE7" : -1182811542,
+    "accuracy" : 65
+  }, {
+    "timestampMs" : "1478463904974",
+    "latitudeE7" : 340577424,
+    "longitudeE7" : -1182878413,
+    "accuracy" : 5,
+    "velocity" : 15,
+    "heading" : 91,
+    "altitude" : 72,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478463787000",
+    "latitudeE7" : 340576966,
+    "longitudeE7" : -1183005936,
+    "accuracy" : 10,
+    "velocity" : 13,
+    "heading" : 91,
+    "altitude" : 64,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478463673850",
+    "latitudeE7" : 340575424,
+    "longitudeE7" : -1183064881,
+    "accuracy" : 22
+  }, {
+    "timestampMs" : "1478460936647",
+    "latitudeE7" : 340574682,
+    "longitudeE7" : -1183064795,
+    "accuracy" : 65,
+    "altitude" : 63,
+    "verticalAccuracy" : 14
+  }, {
+    "timestampMs" : "1478459617076",
+    "latitudeE7" : 340575368,
+    "longitudeE7" : -1183064209,
+    "accuracy" : 41
+  }, {
+    "timestampMs" : "1478459472999",
+    "latitudeE7" : 340617563,
+    "longitudeE7" : -1183034609,
+    "accuracy" : 10,
+    "velocity" : 17,
+    "heading" : 271,
+    "altitude" : 71,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478459293004",
+    "latitudeE7" : 340618227,
+    "longitudeE7" : -1182886573,
+    "accuracy" : 10,
+    "velocity" : 6,
+    "heading" : 266,
+    "altitude" : 103,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478459203278",
+    "latitudeE7" : 340601322,
+    "longitudeE7" : -1182807715,
+    "accuracy" : 51
+  }, {
+    "timestampMs" : "1478458750751",
+    "latitudeE7" : 340606033,
+    "longitudeE7" : -1182809650,
+    "accuracy" : 69,
+    "altitude" : 86,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478453909248",
+    "latitudeE7" : 340599091,
+    "longitudeE7" : -1182805540,
+    "accuracy" : 65,
+    "altitude" : 86,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478453097487",
+    "latitudeE7" : 340601195,
+    "longitudeE7" : -1182804044,
+    "accuracy" : 65,
+    "altitude" : 86,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478452761526",
+    "latitudeE7" : 340606681,
+    "longitudeE7" : -1182809853,
+    "accuracy" : 65,
+    "altitude" : 89,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478452700348",
+    "latitudeE7" : 340601834,
+    "longitudeE7" : -1182807674,
+    "accuracy" : 56
+  }, {
+    "timestampMs" : "1478452508000",
+    "latitudeE7" : 340597866,
+    "longitudeE7" : -1182817975,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 323,
+    "altitude" : 141,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1478452312000",
+    "latitudeE7" : 340618767,
+    "longitudeE7" : -1182892425,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 94,
+    "altitude" : 79,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478452180000",
+    "latitudeE7" : 340617928,
+    "longitudeE7" : -1183043780,
+    "accuracy" : 10,
+    "velocity" : 17,
+    "heading" : 90,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478452021000",
+    "latitudeE7" : 340662577,
+    "longitudeE7" : -1183147419,
+    "accuracy" : 63
+  }, {
+    "timestampMs" : "1478450691954",
+    "latitudeE7" : 340665488,
+    "longitudeE7" : -1183147990,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 68,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1478448951041",
+    "latitudeE7" : 340663822,
+    "longitudeE7" : -1183150455,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 74,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478448929333",
+    "latitudeE7" : 340663990,
+    "longitudeE7" : -1183148568,
+    "accuracy" : 41
+  }, {
+    "timestampMs" : "1478448714404",
+    "latitudeE7" : 340645037,
+    "longitudeE7" : -1183140494,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 0,
+    "altitude" : 71,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478448588000",
+    "latitudeE7" : 340614569,
+    "longitudeE7" : -1183065553,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 358,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478448399324",
+    "latitudeE7" : 340596718,
+    "longitudeE7" : -1183080160,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 2,
+    "altitude" : 61,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1478448201999",
+    "latitudeE7" : 340404607,
+    "longitudeE7" : -1183089308,
+    "accuracy" : 10,
+    "velocity" : 4,
+    "heading" : 0,
+    "altitude" : 64,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478447842074",
+    "latitudeE7" : 340394342,
+    "longitudeE7" : -1183086644,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "altitude" : 36,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478447329000",
+    "latitudeE7" : 340653269,
+    "longitudeE7" : -1183143437,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 104,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478447319031",
+    "latitudeE7" : 340664134,
+    "longitudeE7" : -1183147735,
+    "accuracy" : 25
+  }, {
+    "timestampMs" : "1478426640615",
+    "latitudeE7" : 340664848,
+    "longitudeE7" : -1183148757,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "altitude" : 53,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478422624999",
+    "latitudeE7" : 340665594,
+    "longitudeE7" : -1183150170,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 49,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478419033999",
+    "latitudeE7" : 340664099,
+    "longitudeE7" : -1183148503,
+    "accuracy" : 78
+  }, {
+    "timestampMs" : "1478419028999",
+    "latitudeE7" : 340662553,
+    "longitudeE7" : -1183145607,
+    "accuracy" : 200,
+    "velocity" : 0,
+    "altitude" : 48,
+    "verticalAccuracy" : 20
+  }, {
+    "timestampMs" : "1478416738000",
+    "latitudeE7" : 340545325,
+    "longitudeE7" : -1183230033,
+    "accuracy" : 10,
+    "velocity" : 5,
+    "heading" : 25,
+    "altitude" : 25,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478414608446",
+    "latitudeE7" : 340322719,
+    "longitudeE7" : -1183471815,
+    "accuracy" : 48
+  }, {
+    "timestampMs" : "1478414594452",
+    "latitudeE7" : 340323971,
+    "longitudeE7" : -1183470374,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 2,
+    "altitude" : 33,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478414084877",
+    "latitudeE7" : 340182173,
+    "longitudeE7" : -1183483894,
+    "accuracy" : 1414,
+    "altitude" : 33,
+    "verticalAccuracy" : 20
+  }, {
+    "timestampMs" : "1478409503999",
+    "latitudeE7" : 340321474,
+    "longitudeE7" : -1183472605,
+    "accuracy" : 66
+  }, {
+    "timestampMs" : "1478409500999",
+    "latitudeE7" : 340321616,
+    "longitudeE7" : -1183471632,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 52,
+    "altitude" : 40,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478407575665",
+    "latitudeE7" : 340346204,
+    "longitudeE7" : -1183470721,
+    "accuracy" : 10,
+    "velocity" : 21,
+    "heading" : 268,
+    "altitude" : 58,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478407056999",
+    "latitudeE7" : 340542507,
+    "longitudeE7" : -1182467435,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 104,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1478406774002",
+    "latitudeE7" : 340672170,
+    "longitudeE7" : -1182506846,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 267,
+    "altitude" : 131,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478406601004",
+    "latitudeE7" : 340683752,
+    "longitudeE7" : -1182384031,
+    "accuracy" : 10,
+    "velocity" : 13,
+    "heading" : 195,
+    "altitude" : 137,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478403343970",
+    "latitudeE7" : 340765172,
+    "longitudeE7" : -1182162160,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 18,
+    "altitude" : 131,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1478402875601",
+    "latitudeE7" : 340672047,
+    "longitudeE7" : -1182373215,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 189,
+    "altitude" : 86,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478402500002",
+    "latitudeE7" : 340681353,
+    "longitudeE7" : -1182511024,
+    "accuracy" : 10,
+    "velocity" : 9,
+    "heading" : 268,
+    "altitude" : 131,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478401691663",
+    "latitudeE7" : 340836407,
+    "longitudeE7" : -1182920392,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "heading" : 142,
+    "altitude" : 86,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478399565185",
+    "latitudeE7" : 340644342,
+    "longitudeE7" : -1183090514,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "altitude" : 43,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478398462227",
+    "latitudeE7" : 340780724,
+    "longitudeE7" : -1183113261,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 2,
+    "altitude" : 84,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478398086641",
+    "latitudeE7" : 340689239,
+    "longitudeE7" : -1183151419,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "altitude" : 76,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1478394773964",
+    "latitudeE7" : 340674345,
+    "longitudeE7" : -1183152611,
+    "accuracy" : 10,
+    "altitude" : 53,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1478394575999",
+    "latitudeE7" : 340731154,
+    "longitudeE7" : -1183088643,
+    "accuracy" : 10,
+    "velocity" : 14,
+    "heading" : 183,
+    "altitude" : 58,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478394395003",
+    "latitudeE7" : 340782389,
+    "longitudeE7" : -1183095478,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 328,
+    "altitude" : 75,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478394246218",
+    "latitudeE7" : 340780502,
+    "longitudeE7" : -1183094859,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "heading" : 112,
+    "altitude" : 81,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478394091001",
+    "latitudeE7" : 340750063,
+    "longitudeE7" : -1183090605,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 351,
+    "altitude" : 45,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1478393779001",
+    "latitudeE7" : 340739492,
+    "longitudeE7" : -1183087263,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 69,
+    "altitude" : 78,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478393656946",
+    "latitudeE7" : 340759814,
+    "longitudeE7" : -1183079998,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 175,
+    "altitude" : 72,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478393358000",
+    "latitudeE7" : 340763253,
+    "longitudeE7" : -1182928550,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478393122000",
+    "latitudeE7" : 340719075,
+    "longitudeE7" : -1182823219,
+    "accuracy" : 10,
+    "velocity" : 14,
+    "heading" : 16,
+    "altitude" : 56,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478392971401",
+    "latitudeE7" : 340645691,
+    "longitudeE7" : -1182654707,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 297,
+    "altitude" : 125,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478392829999",
+    "latitudeE7" : 340554917,
+    "longitudeE7" : -1182479713,
+    "accuracy" : 10,
+    "velocity" : 14,
+    "heading" : 307,
+    "altitude" : 122,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478392647000",
+    "latitudeE7" : 340588269,
+    "longitudeE7" : -1182405459,
+    "accuracy" : 37
+  }, {
+    "timestampMs" : "1478392623576",
+    "latitudeE7" : 340598900,
+    "longitudeE7" : -1182397456,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 150,
+    "altitude" : 103,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478390433190",
+    "latitudeE7" : 340589085,
+    "longitudeE7" : -1182405224,
+    "accuracy" : 65,
+    "altitude" : 98,
+    "verticalAccuracy" : 15
+  }, {
+    "timestampMs" : "1478389169562",
+    "latitudeE7" : 340587538,
+    "longitudeE7" : -1182406126,
+    "accuracy" : 36
+  }, {
+    "timestampMs" : "1478386691904",
+    "latitudeE7" : 340605672,
+    "longitudeE7" : -1182395260,
+    "accuracy" : 1414,
+    "altitude" : 92,
+    "verticalAccuracy" : 19
+  }, {
+    "timestampMs" : "1478385277011",
+    "latitudeE7" : 340823594,
+    "longitudeE7" : -1183091581,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 2,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478384623018",
+    "latitudeE7" : 340782388,
+    "longitudeE7" : -1183099542,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 82,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478383718001",
+    "latitudeE7" : 340664045,
+    "longitudeE7" : -1183148186,
+    "accuracy" : 27
+  }, {
+    "timestampMs" : "1478383704025",
+    "latitudeE7" : 340664457,
+    "longitudeE7" : -1183148979,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 100,
+    "altitude" : 65,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478379033917",
+    "latitudeE7" : 340676270,
+    "longitudeE7" : -1183143460,
+    "accuracy" : 1423,
+    "altitude" : 66,
+    "verticalAccuracy" : 71
+  }, {
+    "timestampMs" : "1478378680399",
+    "latitudeE7" : 341109711,
+    "longitudeE7" : -1183162565,
+    "accuracy" : 3000,
+    "altitude" : 66,
+    "verticalAccuracy" : 71
+  }, {
+    "timestampMs" : "1478366845999",
+    "latitudeE7" : 340664700,
+    "longitudeE7" : -1183148507,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478365123999",
+    "latitudeE7" : 340664963,
+    "longitudeE7" : -1183149394,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478365115641",
+    "latitudeE7" : 340664422,
+    "longitudeE7" : -1183149002,
+    "accuracy" : 45
+  }, {
+    "timestampMs" : "1478329847567",
+    "latitudeE7" : 340664681,
+    "longitudeE7" : -1183148277,
+    "accuracy" : 44
+  }, {
+    "timestampMs" : "1478328618056",
+    "latitudeE7" : 340664681,
+    "longitudeE7" : -1183148277,
+    "accuracy" : 44
+  }, {
+    "timestampMs" : "1478327715756",
+    "latitudeE7" : 340662184,
+    "longitudeE7" : -1183149955,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 125,
+    "altitude" : 69,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1478327582000",
+    "latitudeE7" : 340652991,
+    "longitudeE7" : -1183136588,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 276,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478327529981",
+    "latitudeE7" : 340643276,
+    "longitudeE7" : -1183088087,
+    "accuracy" : 20
+  }, {
+    "timestampMs" : "1478322895259",
+    "latitudeE7" : 340643390,
+    "longitudeE7" : -1183087452,
+    "accuracy" : 65,
+    "altitude" : 70,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478321626883",
+    "latitudeE7" : 340643495,
+    "longitudeE7" : -1183087523,
+    "accuracy" : 30
+  }, {
+    "timestampMs" : "1478321445046",
+    "latitudeE7" : 340633872,
+    "longitudeE7" : -1183083644,
+    "accuracy" : 10,
+    "velocity" : 11,
+    "heading" : 269,
+    "altitude" : 150,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478321190028",
+    "latitudeE7" : 340618003,
+    "longitudeE7" : -1183093142,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 81,
+    "altitude" : 72,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478321067411",
+    "latitudeE7" : 340608606,
+    "longitudeE7" : -1183194866,
+    "accuracy" : 10,
+    "velocity" : 11,
+    "heading" : 33,
+    "altitude" : 83,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478320911000",
+    "latitudeE7" : 340472181,
+    "longitudeE7" : -1183269438,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 59,
+    "altitude" : 60,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478320765389",
+    "latitudeE7" : 340363528,
+    "longitudeE7" : -1183330334,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 23,
+    "altitude" : 45,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478320605462",
+    "latitudeE7" : 340325638,
+    "longitudeE7" : -1183401638,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 88,
+    "altitude" : 35,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478320572550",
+    "latitudeE7" : 340325485,
+    "longitudeE7" : -1183471740,
+    "accuracy" : 30
+  }, {
+    "timestampMs" : "1478317674002",
+    "latitudeE7" : 340322925,
+    "longitudeE7" : -1183472777,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 33,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478317166039",
+    "latitudeE7" : 340322647,
+    "longitudeE7" : -1183472233,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 25,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478315933113",
+    "latitudeE7" : 340325541,
+    "longitudeE7" : -1183472812,
+    "accuracy" : 32
+  }, {
+    "timestampMs" : "1478315783000",
+    "latitudeE7" : 340325727,
+    "longitudeE7" : -1183471867,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 33,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478315634000",
+    "latitudeE7" : 340325223,
+    "longitudeE7" : -1183473461,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 272,
+    "altitude" : 34,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478315470050",
+    "latitudeE7" : 340398753,
+    "longitudeE7" : -1183356610,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 269,
+    "altitude" : 50,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478315276004",
+    "latitudeE7" : 340400408,
+    "longitudeE7" : -1183111610,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 270,
+    "altitude" : 64,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478315106000",
+    "latitudeE7" : 340393643,
+    "longitudeE7" : -1183089074,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 40,
+    "altitude" : 64,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478314937000",
+    "latitudeE7" : 340375274,
+    "longitudeE7" : -1183087903,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 15,
+    "altitude" : 63,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478314785349",
+    "latitudeE7" : 340397079,
+    "longitudeE7" : -1183179335,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 177,
+    "altitude" : 106,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478314638924",
+    "latitudeE7" : 340479336,
+    "longitudeE7" : -1183172757,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "heading" : 198,
+    "altitude" : 55,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478314486000",
+    "latitudeE7" : 340603486,
+    "longitudeE7" : -1183144263,
+    "accuracy" : 10,
+    "velocity" : 11,
+    "heading" : 184,
+    "altitude" : 60,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478314361020",
+    "latitudeE7" : 340663592,
+    "longitudeE7" : -1183147459,
+    "accuracy" : 43
+  }, {
+    "timestampMs" : "1478314355044",
+    "latitudeE7" : 340655936,
+    "longitudeE7" : -1183139722,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 42,
+    "altitude" : 87,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1478285713351",
+    "latitudeE7" : 340663272,
+    "longitudeE7" : -1183149216,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 63,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478271437109",
+    "latitudeE7" : 340664456,
+    "longitudeE7" : -1183147720,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 71,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478271426000",
+    "latitudeE7" : 340664427,
+    "longitudeE7" : -1183147543,
+    "accuracy" : 106
+  }, {
+    "timestampMs" : "1478232453999",
+    "latitudeE7" : 340664353,
+    "longitudeE7" : -1183149542,
+    "accuracy" : 39
+  }, {
+    "timestampMs" : "1478229487475",
+    "latitudeE7" : 340664559,
+    "longitudeE7" : -1183149422,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "altitude" : 66,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478229486000",
+    "latitudeE7" : 340664479,
+    "longitudeE7" : -1183149470,
+    "accuracy" : 40
+  }, {
+    "timestampMs" : "1478226776143",
+    "latitudeE7" : 340394125,
+    "longitudeE7" : -1183085864,
+    "accuracy" : 10,
+    "altitude" : 15,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478218904999",
+    "latitudeE7" : 340665550,
+    "longitudeE7" : -1183148665,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 164,
+    "altitude" : 113,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478218443000",
+    "latitudeE7" : 340663102,
+    "longitudeE7" : -1183149236,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 120,
+    "altitude" : 65,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478215309716",
+    "latitudeE7" : 340440817,
+    "longitudeE7" : -1182753687,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 307,
+    "altitude" : 97,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478214708462",
+    "latitudeE7" : 340311861,
+    "longitudeE7" : -1182657040,
+    "accuracy" : 49
+  }, {
+    "timestampMs" : "1478207285424",
+    "latitudeE7" : 340312026,
+    "longitudeE7" : -1182658731,
+    "accuracy" : 65,
+    "altitude" : 64,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478206611035",
+    "latitudeE7" : 340320740,
+    "longitudeE7" : -1182656239,
+    "accuracy" : 67,
+    "altitude" : 62,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478205481777",
+    "latitudeE7" : 340309532,
+    "longitudeE7" : -1182661599,
+    "accuracy" : 180,
+    "altitude" : 61,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478205433373",
+    "latitudeE7" : 340311838,
+    "longitudeE7" : -1182659247,
+    "accuracy" : 55
+  }, {
+    "timestampMs" : "1478205197000",
+    "latitudeE7" : 340306754,
+    "longitudeE7" : -1182669242,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 191,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478205068999",
+    "latitudeE7" : 340290132,
+    "longitudeE7" : -1182618924,
+    "accuracy" : 10,
+    "velocity" : 4,
+    "heading" : 8,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478204489999",
+    "latitudeE7" : 340286553,
+    "longitudeE7" : -1182604209,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "heading" : 334,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478204278999",
+    "latitudeE7" : 340288138,
+    "longitudeE7" : -1182604198,
+    "accuracy" : 10,
+    "velocity" : 4,
+    "heading" : 127,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478204170000",
+    "latitudeE7" : 340311485,
+    "longitudeE7" : -1182656580,
+    "accuracy" : 60
+  }, {
+    "timestampMs" : "1478204133952",
+    "latitudeE7" : 340310455,
+    "longitudeE7" : -1182661071,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 162,
+    "altitude" : 65,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478203755321",
+    "latitudeE7" : 340312068,
+    "longitudeE7" : -1182665602,
+    "accuracy" : 65,
+    "altitude" : 60,
+    "verticalAccuracy" : 20
+  }, {
+    "timestampMs" : "1478200857203",
+    "latitudeE7" : 340313717,
+    "longitudeE7" : -1182662369,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 11
+  }, {
+    "timestampMs" : "1478200328870",
+    "latitudeE7" : 340322330,
+    "longitudeE7" : -1182652044,
+    "accuracy" : 193,
+    "altitude" : 63,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478188980659",
+    "latitudeE7" : 340311115,
+    "longitudeE7" : -1182657618,
+    "accuracy" : 65,
+    "altitude" : 63,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478187383525",
+    "latitudeE7" : 340311733,
+    "longitudeE7" : -1182661170,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478187156028",
+    "latitudeE7" : 340309944,
+    "longitudeE7" : -1182660851,
+    "accuracy" : 88
+  }, {
+    "timestampMs" : "1478187154197",
+    "latitudeE7" : 340302639,
+    "longitudeE7" : -1182670201,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 136,
+    "altitude" : 94,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478185953588",
+    "latitudeE7" : 340587570,
+    "longitudeE7" : -1183142371,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 181,
+    "altitude" : 59,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478147618979",
+    "latitudeE7" : 340664337,
+    "longitudeE7" : -1183150544,
+    "accuracy" : 24
+  }, {
+    "timestampMs" : "1478146261000",
+    "latitudeE7" : 340664533,
+    "longitudeE7" : -1183150542,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 69,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478145934999",
+    "latitudeE7" : 340664337,
+    "longitudeE7" : -1183150544,
+    "accuracy" : 24
+  }, {
+    "timestampMs" : "1478145934131",
+    "latitudeE7" : 340661654,
+    "longitudeE7" : -1183149769,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "heading" : 284,
+    "altitude" : 65,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478144735999",
+    "latitudeE7" : 340508372,
+    "longitudeE7" : -1183251074,
+    "accuracy" : 10,
+    "velocity" : 17,
+    "heading" : 27,
+    "altitude" : 57,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478144156048",
+    "latitudeE7" : 340256875,
+    "longitudeE7" : -1183721102,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 34,
+    "altitude" : 54,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1478143796533",
+    "latitudeE7" : 339759940,
+    "longitudeE7" : -1183723532,
+    "accuracy" : 2000,
+    "altitude" : 13,
+    "verticalAccuracy" : 54
+  }, {
+    "timestampMs" : "1478143388548",
+    "latitudeE7" : 339453499,
+    "longitudeE7" : -1183910448,
+    "accuracy" : 10,
+    "velocity" : 7,
+    "heading" : 69,
+    "altitude" : 3,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478141468000",
+    "latitudeE7" : 340088769,
+    "longitudeE7" : -1183580509,
+    "accuracy" : 10,
+    "velocity" : 24,
+    "heading" : 201,
+    "altitude" : 92,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478141133999",
+    "latitudeE7" : 340263355,
+    "longitudeE7" : -1183543286,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 316,
+    "altitude" : 29,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478138905000",
+    "latitudeE7" : 340664949,
+    "longitudeE7" : -1183148857,
+    "accuracy" : 44
+  }, {
+    "timestampMs" : "1478138890999",
+    "latitudeE7" : 340665438,
+    "longitudeE7" : -1183149824,
+    "accuracy" : 100,
+    "velocity" : 0,
+    "altitude" : 66,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478135989000",
+    "latitudeE7" : 340664521,
+    "longitudeE7" : -1183148011,
+    "accuracy" : 53
+  }, {
+    "timestampMs" : "1478135988000",
+    "latitudeE7" : 340663816,
+    "longitudeE7" : -1183147704,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 67,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478132377999",
+    "latitudeE7" : 340476600,
+    "longitudeE7" : -1182988467,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 261,
+    "altitude" : -46,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478131735000",
+    "latitudeE7" : 340312415,
+    "longitudeE7" : -1182657660,
+    "accuracy" : 53
+  }, {
+    "timestampMs" : "1478131731032",
+    "latitudeE7" : 340316405,
+    "longitudeE7" : -1182670487,
+    "accuracy" : 10,
+    "altitude" : 84,
+    "verticalAccuracy" : 96
+  }, {
+    "timestampMs" : "1478131391434",
+    "latitudeE7" : 340268076,
+    "longitudeE7" : -1182644920,
+    "accuracy" : 1414,
+    "altitude" : 62,
+    "verticalAccuracy" : 27
+  }, {
+    "timestampMs" : "1478130723406",
+    "latitudeE7" : 340312648,
+    "longitudeE7" : -1182660268,
+    "accuracy" : 65,
+    "altitude" : 69,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478121586508",
+    "latitudeE7" : 340321271,
+    "longitudeE7" : -1182655441,
+    "accuracy" : 75,
+    "altitude" : 61,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478118936273",
+    "latitudeE7" : 340313143,
+    "longitudeE7" : -1182658232,
+    "accuracy" : 66,
+    "altitude" : 64,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478118664299",
+    "latitudeE7" : 340304832,
+    "longitudeE7" : -1182669414,
+    "accuracy" : 65,
+    "altitude" : 60,
+    "verticalAccuracy" : 19
+  }, {
+    "timestampMs" : "1478106392999",
+    "latitudeE7" : 340311143,
+    "longitudeE7" : -1182660046,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "altitude" : 70,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478106193999",
+    "latitudeE7" : 340313832,
+    "longitudeE7" : -1182665681,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478104758325",
+    "latitudeE7" : 340313189,
+    "longitudeE7" : -1182656059,
+    "accuracy" : 68,
+    "altitude" : 63,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478104751809",
+    "latitudeE7" : 340312151,
+    "longitudeE7" : -1182656132,
+    "accuracy" : 57
+  }, {
+    "timestampMs" : "1478101123870",
+    "latitudeE7" : 340279262,
+    "longitudeE7" : -1182694505,
+    "accuracy" : 2000,
+    "altitude" : 77,
+    "verticalAccuracy" : 31
+  }, {
+    "timestampMs" : "1478100637010",
+    "latitudeE7" : 340449155,
+    "longitudeE7" : -1182646826,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 283,
+    "altitude" : 76,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478100061963",
+    "latitudeE7" : 340525652,
+    "longitudeE7" : -1183021601,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 90,
+    "altitude" : 20,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478079923999",
+    "latitudeE7" : 340664283,
+    "longitudeE7" : -1183148171,
+    "accuracy" : 28
+  }, {
+    "timestampMs" : "1478052045035",
+    "latitudeE7" : 340664552,
+    "longitudeE7" : -1183147874,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 76,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478050392000",
+    "latitudeE7" : 340664903,
+    "longitudeE7" : -1183148384,
+    "accuracy" : 34
+  }, {
+    "timestampMs" : "1478047098000",
+    "latitudeE7" : 340610947,
+    "longitudeE7" : -1183142856,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 4,
+    "altitude" : 68,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478046912000",
+    "latitudeE7" : 340553298,
+    "longitudeE7" : -1183142748,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 325,
+    "altitude" : 55,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478046743888",
+    "latitudeE7" : 340471834,
+    "longitudeE7" : -1183141534,
+    "accuracy" : 10,
+    "velocity" : 13,
+    "heading" : 265,
+    "altitude" : 54,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1478046618000",
+    "latitudeE7" : 340473038,
+    "longitudeE7" : -1183017917,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 271,
+    "altitude" : 57,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1478046483999",
+    "latitudeE7" : 340473887,
+    "longitudeE7" : -1182885298,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 271,
+    "altitude" : 72,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478046317641",
+    "latitudeE7" : 340445896,
+    "longitudeE7" : -1182766660,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "heading" : 292,
+    "altitude" : 76,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1478046197000",
+    "latitudeE7" : 340417079,
+    "longitudeE7" : -1182699508,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 298,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478045891000",
+    "latitudeE7" : 340384186,
+    "longitudeE7" : -1182630928,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 359,
+    "altitude" : 73,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478045697999",
+    "latitudeE7" : 340332039,
+    "longitudeE7" : -1182657275,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 33,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478045668378",
+    "latitudeE7" : 340311759,
+    "longitudeE7" : -1182657298,
+    "accuracy" : 54
+  }, {
+    "timestampMs" : "1478045561183",
+    "latitudeE7" : 340302198,
+    "longitudeE7" : -1182676861,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 202,
+    "altitude" : 67,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478045233013",
+    "latitudeE7" : 340307792,
+    "longitudeE7" : -1182667029,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 15
+  }, {
+    "timestampMs" : "1478039470553",
+    "latitudeE7" : 340311204,
+    "longitudeE7" : -1182656875,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478039251125",
+    "latitudeE7" : 340318637,
+    "longitudeE7" : -1182656522,
+    "accuracy" : 65,
+    "altitude" : 63,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478035019547",
+    "latitudeE7" : 340311925,
+    "longitudeE7" : -1182659488,
+    "accuracy" : 65,
+    "altitude" : 61,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1478034149496",
+    "latitudeE7" : 340311009,
+    "longitudeE7" : -1182658389,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 13
+  }, {
+    "timestampMs" : "1478033787297",
+    "latitudeE7" : 340308522,
+    "longitudeE7" : -1182665416,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478033774467",
+    "latitudeE7" : 340310922,
+    "longitudeE7" : -1182658990,
+    "accuracy" : 58
+  }, {
+    "timestampMs" : "1478033689797",
+    "latitudeE7" : 340324055,
+    "longitudeE7" : -1182669278,
+    "accuracy" : 23
+  }, {
+    "timestampMs" : "1478032629012",
+    "latitudeE7" : 340324080,
+    "longitudeE7" : -1182669381,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 63,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1478031793443",
+    "latitudeE7" : 340324661,
+    "longitudeE7" : -1182669946,
+    "accuracy" : 65,
+    "altitude" : 60,
+    "verticalAccuracy" : 23
+  }, {
+    "timestampMs" : "1478031416796",
+    "latitudeE7" : 340324705,
+    "longitudeE7" : -1182669767,
+    "accuracy" : 27
+  }, {
+    "timestampMs" : "1478031371796",
+    "latitudeE7" : 340311599,
+    "longitudeE7" : -1182657362,
+    "accuracy" : 48
+  }, {
+    "timestampMs" : "1478031283619",
+    "latitudeE7" : 340318285,
+    "longitudeE7" : -1182671556,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 68,
+    "altitude" : 67,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478030974078",
+    "latitudeE7" : 340311957,
+    "longitudeE7" : -1182667230,
+    "accuracy" : 65,
+    "altitude" : 61,
+    "verticalAccuracy" : 15
+  }, {
+    "timestampMs" : "1478016771637",
+    "latitudeE7" : 340312899,
+    "longitudeE7" : -1182656461,
+    "accuracy" : 75,
+    "altitude" : 63,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1478015464565",
+    "latitudeE7" : 340311956,
+    "longitudeE7" : -1182656768,
+    "accuracy" : 64
+  }, {
+    "timestampMs" : "1478015352947",
+    "latitudeE7" : 340307266,
+    "longitudeE7" : -1182666806,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 250,
+    "altitude" : 69,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1478015127023",
+    "latitudeE7" : 340327682,
+    "longitudeE7" : -1182647850,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 288,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478013894999",
+    "latitudeE7" : 340339688,
+    "longitudeE7" : -1182642056,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 70,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478013733000",
+    "latitudeE7" : 340421897,
+    "longitudeE7" : -1182599549,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 125,
+    "altitude" : 73,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478013600003",
+    "latitudeE7" : 340450458,
+    "longitudeE7" : -1182648813,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 75,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478013411999",
+    "latitudeE7" : 340519147,
+    "longitudeE7" : -1182814335,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 86,
+    "altitude" : 78,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478013269406",
+    "latitudeE7" : 340525692,
+    "longitudeE7" : -1182919767,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 82,
+    "altitude" : 63,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1478013133002",
+    "latitudeE7" : 340525652,
+    "longitudeE7" : -1183053581,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 59,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478012903999",
+    "latitudeE7" : 340595971,
+    "longitudeE7" : -1183143095,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 179,
+    "altitude" : 57,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478012758000",
+    "latitudeE7" : 340652598,
+    "longitudeE7" : -1183151124,
+    "accuracy" : 10,
+    "velocity" : 7,
+    "heading" : 142,
+    "altitude" : 65,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1478012754751",
+    "latitudeE7" : 340663977,
+    "longitudeE7" : -1183147593,
+    "accuracy" : 36
+  }, {
+    "timestampMs" : "1477992809445",
+    "latitudeE7" : 340665072,
+    "longitudeE7" : -1183147225,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 53,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477984165436",
+    "latitudeE7" : 340663416,
+    "longitudeE7" : -1183148122,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 143,
+    "altitude" : 79,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477983165000",
+    "latitudeE7" : 340663780,
+    "longitudeE7" : -1183148193,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 135,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477982876561",
+    "latitudeE7" : 340664017,
+    "longitudeE7" : -1183148828,
+    "accuracy" : 54
+  }, {
+    "timestampMs" : "1477982711999",
+    "latitudeE7" : 340690815,
+    "longitudeE7" : -1183014386,
+    "accuracy" : 5,
+    "velocity" : 19,
+    "heading" : 269,
+    "altitude" : 78,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477982578390",
+    "latitudeE7" : 340684800,
+    "longitudeE7" : -1182953012,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 3,
+    "altitude" : 68,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477982452999",
+    "latitudeE7" : 340646906,
+    "longitudeE7" : -1182915945,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 357,
+    "altitude" : 74,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477982285046",
+    "latitudeE7" : 340576086,
+    "longitudeE7" : -1183032253,
+    "accuracy" : 10,
+    "velocity" : 17,
+    "heading" : 90,
+    "altitude" : 53,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477982167055",
+    "latitudeE7" : 340599944,
+    "longitudeE7" : -1183093440,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477982016999",
+    "latitudeE7" : 340619787,
+    "longitudeE7" : -1183087127,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 55,
+    "altitude" : 64,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477981869999",
+    "latitudeE7" : 340691278,
+    "longitudeE7" : -1183003847,
+    "accuracy" : 10,
+    "velocity" : 18,
+    "heading" : 280,
+    "altitude" : 79,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477981740999",
+    "latitudeE7" : 340689900,
+    "longitudeE7" : -1182952879,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 175,
+    "altitude" : 72,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477981536000",
+    "latitudeE7" : 340643439,
+    "longitudeE7" : -1182751718,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 315,
+    "altitude" : 107,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477981412000",
+    "latitudeE7" : 340701364,
+    "longitudeE7" : -1182674339,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 296,
+    "altitude" : 111,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477981232999",
+    "latitudeE7" : 340656764,
+    "longitudeE7" : -1182511625,
+    "accuracy" : 10,
+    "velocity" : 9,
+    "heading" : 349,
+    "altitude" : 122,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477980916000",
+    "latitudeE7" : 340773322,
+    "longitudeE7" : -1182343672,
+    "accuracy" : 50,
+    "velocity" : 20,
+    "heading" : 231,
+    "altitude" : -46,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1477980522094",
+    "latitudeE7" : 340801914,
+    "longitudeE7" : -1182177617,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 111,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477979979002",
+    "latitudeE7" : 340800958,
+    "longitudeE7" : -1182177126,
+    "accuracy" : 10,
+    "velocity" : 6,
+    "heading" : 73,
+    "altitude" : 106,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477979531562",
+    "latitudeE7" : 341076201,
+    "longitudeE7" : -1181864519,
+    "accuracy" : 10,
+    "velocity" : 25,
+    "heading" : 220,
+    "altitude" : 154,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477979407508",
+    "latitudeE7" : 341194421,
+    "longitudeE7" : -1181611147,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 266,
+    "altitude" : 204,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1477979210593",
+    "latitudeE7" : 341421808,
+    "longitudeE7" : -1181596311,
+    "accuracy" : 10,
+    "velocity" : 17,
+    "heading" : 176,
+    "altitude" : 269,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477979083999",
+    "latitudeE7" : 341484770,
+    "longitudeE7" : -1181636924,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 5,
+    "altitude" : 277,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477978905000",
+    "latitudeE7" : 341620740,
+    "longitudeE7" : -1181507023,
+    "accuracy" : 10,
+    "velocity" : 17,
+    "heading" : 184,
+    "altitude" : 285,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477978734003",
+    "latitudeE7" : 341834752,
+    "longitudeE7" : -1181510550,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 109,
+    "altitude" : 340,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1477978577480",
+    "latitudeE7" : 341835747,
+    "longitudeE7" : -1181511266,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 342,
+    "altitude" : 338,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477978191881",
+    "latitudeE7" : 342039486,
+    "longitudeE7" : -1181318919,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 307,
+    "altitude" : 561,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477977438345",
+    "latitudeE7" : 342040263,
+    "longitudeE7" : -1181292325,
+    "accuracy" : 10,
+    "velocity" : 5,
+    "heading" : 247,
+    "altitude" : 549,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477977239309",
+    "latitudeE7" : 342043147,
+    "longitudeE7" : -1181278191,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 338,
+    "altitude" : 577,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477977042289",
+    "latitudeE7" : 342038860,
+    "longitudeE7" : -1181259642,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 271,
+    "altitude" : 576,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477976819280",
+    "latitudeE7" : 342054890,
+    "longitudeE7" : -1181256936,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 194,
+    "altitude" : 613,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477976545242",
+    "latitudeE7" : 342052730,
+    "longitudeE7" : -1181254137,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 213,
+    "altitude" : 679,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477976165194",
+    "latitudeE7" : 342063927,
+    "longitudeE7" : -1181227245,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 348,
+    "altitude" : 751,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477975938197",
+    "latitudeE7" : 342078348,
+    "longitudeE7" : -1181224607,
+    "accuracy" : 10,
+    "velocity" : 4,
+    "heading" : 161,
+    "altitude" : 773,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477975702000",
+    "latitudeE7" : 342097476,
+    "longitudeE7" : -1181234559,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 108,
+    "altitude" : 795,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477975581156",
+    "latitudeE7" : 342099103,
+    "longitudeE7" : -1181230529,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 279,
+    "altitude" : 829,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477975316112",
+    "latitudeE7" : 342097207,
+    "longitudeE7" : -1181220597,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 132,
+    "altitude" : 866,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477974943576",
+    "latitudeE7" : 342130898,
+    "longitudeE7" : -1181231630,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 261,
+    "altitude" : 939,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477973205791",
+    "latitudeE7" : 342109717,
+    "longitudeE7" : -1181207838,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "heading" : 156,
+    "altitude" : 977,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1477972286797",
+    "latitudeE7" : 342125429,
+    "longitudeE7" : -1181233668,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 310,
+    "altitude" : 904,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477971818714",
+    "latitudeE7" : 342091397,
+    "longitudeE7" : -1181223076,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 310,
+    "altitude" : 839,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477971626714",
+    "latitudeE7" : 342099645,
+    "longitudeE7" : -1181235445,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 821,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477971440702",
+    "latitudeE7" : 342095807,
+    "longitudeE7" : -1181233105,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 49,
+    "altitude" : 788,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477971249435",
+    "latitudeE7" : 342082175,
+    "longitudeE7" : -1181220893,
+    "accuracy" : 10,
+    "velocity" : 5,
+    "heading" : 75,
+    "altitude" : 730,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477971137999",
+    "latitudeE7" : 342073125,
+    "longitudeE7" : -1181227463,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 354,
+    "altitude" : 752,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477970686628",
+    "latitudeE7" : 342066274,
+    "longitudeE7" : -1181229200,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 90,
+    "altitude" : 737,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477970555000",
+    "latitudeE7" : 342076704,
+    "longitudeE7" : -1181233570,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 106,
+    "altitude" : 713,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477970328007",
+    "latitudeE7" : 342057480,
+    "longitudeE7" : -1181250022,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 66,
+    "altitude" : 671,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477969770527",
+    "latitudeE7" : 342041261,
+    "longitudeE7" : -1181258563,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 356,
+    "altitude" : 582,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477969632483",
+    "latitudeE7" : 342042841,
+    "longitudeE7" : -1181261050,
+    "accuracy" : 5,
+    "velocity" : 1,
+    "heading" : 120,
+    "altitude" : 592,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477969429637",
+    "latitudeE7" : 342044719,
+    "longitudeE7" : -1181283563,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 344,
+    "altitude" : 609,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477969346334",
+    "latitudeE7" : 342038954,
+    "longitudeE7" : -1181306815,
+    "accuracy" : 40
+  }, {
+    "timestampMs" : "1477969160000",
+    "latitudeE7" : 342046901,
+    "longitudeE7" : -1181289104,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 21,
+    "altitude" : 569,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477969023245",
+    "latitudeE7" : 342040138,
+    "longitudeE7" : -1181302459,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 119,
+    "altitude" : 548,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477967817114",
+    "latitudeE7" : 342038963,
+    "longitudeE7" : -1181307879,
+    "accuracy" : 25
+  }, {
+    "timestampMs" : "1477967591246",
+    "latitudeE7" : 342041241,
+    "longitudeE7" : -1181305716,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 267,
+    "altitude" : 556,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477966724173",
+    "latitudeE7" : 342045436,
+    "longitudeE7" : -1181326860,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "heading" : 17,
+    "altitude" : 544,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477966528264",
+    "latitudeE7" : 341998120,
+    "longitudeE7" : -1181449245,
+    "accuracy" : 5,
+    "velocity" : 11,
+    "heading" : 14,
+    "altitude" : 432,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477966402374",
+    "latitudeE7" : 341889721,
+    "longitudeE7" : -1181499603,
+    "accuracy" : 5,
+    "velocity" : 14,
+    "heading" : 21,
+    "altitude" : 363,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1477966285062",
+    "latitudeE7" : 341830046,
+    "longitudeE7" : -1181508366,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 338,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477965986333",
+    "latitudeE7" : 341811690,
+    "longitudeE7" : -1181507426,
+    "accuracy" : 5,
+    "velocity" : 13,
+    "heading" : 358,
+    "altitude" : 337,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477965864942",
+    "latitudeE7" : 341689216,
+    "longitudeE7" : -1181506638,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 0,
+    "altitude" : 316,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477965698932",
+    "latitudeE7" : 341572274,
+    "longitudeE7" : -1181505746,
+    "accuracy" : 10,
+    "velocity" : 6,
+    "heading" : 351,
+    "altitude" : 273,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1477965558999",
+    "latitudeE7" : 341443938,
+    "longitudeE7" : -1181504092,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 4,
+    "altitude" : 232,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477965381002",
+    "latitudeE7" : 341326712,
+    "longitudeE7" : -1181502029,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 8,
+    "altitude" : 227,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477965134000",
+    "latitudeE7" : 341190552,
+    "longitudeE7" : -1181590279,
+    "accuracy" : 10,
+    "velocity" : 20,
+    "heading" : 91,
+    "altitude" : 225,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477964876001",
+    "latitudeE7" : 340981215,
+    "longitudeE7" : -1182035774,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 32,
+    "altitude" : 122,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477964622000",
+    "latitudeE7" : 340781346,
+    "longitudeE7" : -1182283608,
+    "accuracy" : 10,
+    "velocity" : 13,
+    "heading" : 71,
+    "altitude" : 131,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477964156354",
+    "latitudeE7" : 340652340,
+    "longitudeE7" : -1182495718,
+    "accuracy" : 5,
+    "velocity" : 5,
+    "heading" : 83,
+    "altitude" : 119,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477963911391",
+    "latitudeE7" : 340677506,
+    "longitudeE7" : -1182522638,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 76,
+    "altitude" : 119,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1477963765390",
+    "latitudeE7" : 340687057,
+    "longitudeE7" : -1182632241,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 117,
+    "altitude" : 120,
+    "verticalAccuracy" : 6
+  }, {
+    "timestampMs" : "1477963561000",
+    "latitudeE7" : 340751357,
+    "longitudeE7" : -1182815559,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 115,
+    "altitude" : 95,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477963416000",
+    "latitudeE7" : 340739118,
+    "longitudeE7" : -1182867561,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 350,
+    "altitude" : 87,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477963201000",
+    "latitudeE7" : 340691173,
+    "longitudeE7" : -1182941138,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 345,
+    "altitude" : 74,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477962920999",
+    "latitudeE7" : 340671526,
+    "longitudeE7" : -1183006872,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 57,
+    "altitude" : 78,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477962747399",
+    "latitudeE7" : 340671070,
+    "longitudeE7" : -1183073641,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 72,
+    "altitude" : 77,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477962619286",
+    "latitudeE7" : 340665468,
+    "longitudeE7" : -1183148533,
+    "accuracy" : 52
+  }, {
+    "timestampMs" : "1477962545000",
+    "latitudeE7" : 340669525,
+    "longitudeE7" : -1183150772,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 298,
+    "altitude" : 65,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477961949005",
+    "latitudeE7" : 340663467,
+    "longitudeE7" : -1183147710,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477960722178",
+    "latitudeE7" : 340663899,
+    "longitudeE7" : -1183149154,
+    "accuracy" : 44
+  }, {
+    "timestampMs" : "1477960589000",
+    "latitudeE7" : 340590127,
+    "longitudeE7" : -1183142427,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 4,
+    "altitude" : 58,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477960432000",
+    "latitudeE7" : 340495405,
+    "longitudeE7" : -1183164646,
+    "accuracy" : 5,
+    "velocity" : 16,
+    "heading" : 20,
+    "altitude" : 61,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477960257000",
+    "latitudeE7" : 340399696,
+    "longitudeE7" : -1183175712,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 277,
+    "altitude" : 60,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477960104478",
+    "latitudeE7" : 340399742,
+    "longitudeE7" : -1182937642,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 270,
+    "altitude" : 44,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477959984999",
+    "latitudeE7" : 340400817,
+    "longitudeE7" : -1182856631,
+    "accuracy" : 10,
+    "velocity" : 14,
+    "heading" : 277,
+    "altitude" : 53,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477959858000",
+    "latitudeE7" : 340369703,
+    "longitudeE7" : -1182778092,
+    "accuracy" : 10,
+    "velocity" : 18,
+    "heading" : 298,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477959718000",
+    "latitudeE7" : 340314435,
+    "longitudeE7" : -1182660433,
+    "accuracy" : 86
+  }, {
+    "timestampMs" : "1477959715000",
+    "latitudeE7" : 340319307,
+    "longitudeE7" : -1182670460,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 53,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477959520400",
+    "latitudeE7" : 340316936,
+    "longitudeE7" : -1182669915,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 149,
+    "altitude" : 55,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477959319203",
+    "latitudeE7" : 340308189,
+    "longitudeE7" : -1182669722,
+    "accuracy" : 65,
+    "altitude" : 61,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477946920460",
+    "latitudeE7" : 340312562,
+    "longitudeE7" : -1182657718,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 11
+  }, {
+    "timestampMs" : "1477946644112",
+    "latitudeE7" : 340316457,
+    "longitudeE7" : -1182670814,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 176,
+    "altitude" : 54,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477946040788",
+    "latitudeE7" : 340324397,
+    "longitudeE7" : -1182668403,
+    "accuracy" : 65,
+    "altitude" : 60,
+    "verticalAccuracy" : 19
+  }, {
+    "timestampMs" : "1477945574057",
+    "latitudeE7" : 340321188,
+    "longitudeE7" : -1182668561,
+    "accuracy" : 77
+  }, {
+    "timestampMs" : "1477945560669",
+    "latitudeE7" : 340313285,
+    "longitudeE7" : -1182660752,
+    "accuracy" : 81
+  }, {
+    "timestampMs" : "1477944930922",
+    "latitudeE7" : 340320627,
+    "longitudeE7" : -1182664514,
+    "accuracy" : 65,
+    "altitude" : 60,
+    "verticalAccuracy" : 18
+  }, {
+    "timestampMs" : "1477944746998",
+    "latitudeE7" : 340308285,
+    "longitudeE7" : -1182670895,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 280,
+    "altitude" : 63,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477944545636",
+    "latitudeE7" : 340312079,
+    "longitudeE7" : -1182666530,
+    "accuracy" : 65,
+    "altitude" : 60,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477935955124",
+    "latitudeE7" : 340311951,
+    "longitudeE7" : -1182658248,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477933602507",
+    "latitudeE7" : 340312793,
+    "longitudeE7" : -1182664905,
+    "accuracy" : 58
+  }, {
+    "timestampMs" : "1477932677535",
+    "latitudeE7" : 340306670,
+    "longitudeE7" : -1182592274,
+    "accuracy" : 1414,
+    "altitude" : 124,
+    "verticalAccuracy" : 36
+  }, {
+    "timestampMs" : "1477931753512",
+    "latitudeE7" : 340341190,
+    "longitudeE7" : -1182595225,
+    "accuracy" : 1485,
+    "altitude" : 124,
+    "verticalAccuracy" : 36
+  }, {
+    "timestampMs" : "1477928458006",
+    "latitudeE7" : 340448417,
+    "longitudeE7" : -1182633747,
+    "accuracy" : 10,
+    "velocity" : 5,
+    "heading" : 117,
+    "altitude" : 111,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477928038138",
+    "latitudeE7" : 340526030,
+    "longitudeE7" : -1182949556,
+    "accuracy" : 10,
+    "velocity" : 7,
+    "heading" : 89,
+    "altitude" : 27,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1477907786999",
+    "latitudeE7" : 340664268,
+    "longitudeE7" : -1183148444,
+    "accuracy" : 41
+  }, {
+    "timestampMs" : "1477891227419",
+    "latitudeE7" : 340664192,
+    "longitudeE7" : -1183148216,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477886246424",
+    "latitudeE7" : 340664899,
+    "longitudeE7" : -1183147806,
+    "accuracy" : 64
+  }, {
+    "timestampMs" : "1477884602999",
+    "latitudeE7" : 340666313,
+    "longitudeE7" : -1183150946,
+    "accuracy" : 10,
+    "velocity" : 4,
+    "heading" : 178,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477884428000",
+    "latitudeE7" : 340689034,
+    "longitudeE7" : -1183414496,
+    "accuracy" : 10,
+    "velocity" : 18,
+    "heading" : 90,
+    "altitude" : 56,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477884414044",
+    "latitudeE7" : 340691920,
+    "longitudeE7" : -1183442196,
+    "accuracy" : 40
+  }, {
+    "timestampMs" : "1477884142000",
+    "latitudeE7" : 340691013,
+    "longitudeE7" : -1183444305,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477882890999",
+    "latitudeE7" : 340692168,
+    "longitudeE7" : -1183442024,
+    "accuracy" : 41
+  }, {
+    "timestampMs" : "1477882887000",
+    "latitudeE7" : 340692012,
+    "longitudeE7" : -1183446353,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 86,
+    "altitude" : 43,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477882649348",
+    "latitudeE7" : 340689771,
+    "longitudeE7" : -1183306347,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 268,
+    "altitude" : 75,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477882534000",
+    "latitudeE7" : 340689555,
+    "longitudeE7" : -1183170136,
+    "accuracy" : 10,
+    "velocity" : 13,
+    "heading" : 270,
+    "altitude" : 65,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477882378999",
+    "latitudeE7" : 340598850,
+    "longitudeE7" : -1183143299,
+    "accuracy" : 10,
+    "velocity" : 11,
+    "heading" : 351,
+    "altitude" : 59,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477882253248",
+    "latitudeE7" : 340575930,
+    "longitudeE7" : -1183066144,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "heading" : 307,
+    "altitude" : 61,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1477872141067",
+    "latitudeE7" : 340664456,
+    "longitudeE7" : -1183146845,
+    "accuracy" : 23
+  }, {
+    "timestampMs" : "1477866763429",
+    "latitudeE7" : 340663861,
+    "longitudeE7" : -1183148497,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 153,
+    "altitude" : 75,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477865458000",
+    "latitudeE7" : 340666583,
+    "longitudeE7" : -1183148417,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 333,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477865385323",
+    "latitudeE7" : 340665351,
+    "longitudeE7" : -1183148138,
+    "accuracy" : 43
+  }, {
+    "timestampMs" : "1477865296999",
+    "latitudeE7" : 340624149,
+    "longitudeE7" : -1183141900,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 3,
+    "altitude" : 61,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477865167000",
+    "latitudeE7" : 340526888,
+    "longitudeE7" : -1183097671,
+    "accuracy" : 5,
+    "velocity" : 15,
+    "heading" : 270,
+    "altitude" : 60,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477865040754",
+    "latitudeE7" : 340527774,
+    "longitudeE7" : -1182975198,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 270,
+    "altitude" : 98,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1477865020299",
+    "latitudeE7" : 340529899,
+    "longitudeE7" : -1182960209,
+    "accuracy" : 29
+  }, {
+    "timestampMs" : "1477860319779",
+    "latitudeE7" : 340529129,
+    "longitudeE7" : -1182960641,
+    "accuracy" : 65,
+    "altitude" : 92,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1477858982877",
+    "latitudeE7" : 340530394,
+    "longitudeE7" : -1182960748,
+    "accuracy" : 40
+  }, {
+    "timestampMs" : "1477858887000",
+    "latitudeE7" : 340521419,
+    "longitudeE7" : -1182879423,
+    "accuracy" : 10,
+    "velocity" : 10,
+    "heading" : 266,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477858659000",
+    "latitudeE7" : 340591001,
+    "longitudeE7" : -1182827482,
+    "accuracy" : 10,
+    "velocity" : 6,
+    "heading" : 271,
+    "altitude" : 86,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477858636021",
+    "latitudeE7" : 340603466,
+    "longitudeE7" : -1182808805,
+    "accuracy" : 46
+  }, {
+    "timestampMs" : "1477857985000",
+    "latitudeE7" : 340600238,
+    "longitudeE7" : -1182813719,
+    "accuracy" : 26,
+    "velocity" : 1,
+    "heading" : 166,
+    "altitude" : 93,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477857856580",
+    "latitudeE7" : 340599488,
+    "longitudeE7" : -1182814265,
+    "accuracy" : 91,
+    "altitude" : 85,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477857314000",
+    "latitudeE7" : 340602073,
+    "longitudeE7" : -1182808358,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477856503999",
+    "latitudeE7" : 340602566,
+    "longitudeE7" : -1182809850,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477856108000",
+    "latitudeE7" : 340600796,
+    "longitudeE7" : -1182809204,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "altitude" : 92,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477855505000",
+    "latitudeE7" : 340606424,
+    "longitudeE7" : -1182808431,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477855270000",
+    "latitudeE7" : 340602821,
+    "longitudeE7" : -1182807546,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 22,
+    "altitude" : 89,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477853941999",
+    "latitudeE7" : 340604207,
+    "longitudeE7" : -1182810179,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477853077000",
+    "latitudeE7" : 340607290,
+    "longitudeE7" : -1182805760,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 89,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477852622000",
+    "latitudeE7" : 340596387,
+    "longitudeE7" : -1182810278,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "heading" : 197,
+    "altitude" : 92,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477852483145",
+    "latitudeE7" : 340602091,
+    "longitudeE7" : -1182812057,
+    "accuracy" : 72,
+    "altitude" : 87,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477850548310",
+    "latitudeE7" : 340608190,
+    "longitudeE7" : -1182808309,
+    "accuracy" : 65,
+    "altitude" : 89,
+    "verticalAccuracy" : 11
+  }, {
+    "timestampMs" : "1477847467890",
+    "latitudeE7" : 340599922,
+    "longitudeE7" : -1182809132,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 94,
+    "altitude" : 99,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477845356258",
+    "latitudeE7" : 340608084,
+    "longitudeE7" : -1182806518,
+    "accuracy" : 65,
+    "altitude" : 88,
+    "verticalAccuracy" : 11
+  }, {
+    "timestampMs" : "1477844504009",
+    "latitudeE7" : 340599828,
+    "longitudeE7" : -1182805320,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477843374999",
+    "latitudeE7" : 340607772,
+    "longitudeE7" : -1182808186,
+    "accuracy" : 30,
+    "velocity" : 1,
+    "heading" : 15,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477843222331",
+    "latitudeE7" : 340603444,
+    "longitudeE7" : -1182809961,
+    "accuracy" : 79
+  }, {
+    "timestampMs" : "1477842939999",
+    "latitudeE7" : 340577553,
+    "longitudeE7" : -1182996646,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 49,
+    "altitude" : 67,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1477842804063",
+    "latitudeE7" : 340582460,
+    "longitudeE7" : -1183142865,
+    "accuracy" : 10,
+    "velocity" : 5,
+    "heading" : 168,
+    "altitude" : 73,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1477842519136",
+    "latitudeE7" : 340664321,
+    "longitudeE7" : -1183147334,
+    "accuracy" : 25
+  }, {
+    "timestampMs" : "1477842486157",
+    "latitudeE7" : 340662104,
+    "longitudeE7" : -1183151829,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 73,
+    "altitude" : 60,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477818790963",
+    "latitudeE7" : 340664270,
+    "longitudeE7" : -1183147819,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "altitude" : 76,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477818051998",
+    "latitudeE7" : 340664871,
+    "longitudeE7" : -1183149368,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477817275860",
+    "latitudeE7" : 340664314,
+    "longitudeE7" : -1183147134,
+    "accuracy" : 31
+  }, {
+    "timestampMs" : "1477816173000",
+    "latitudeE7" : 340623353,
+    "longitudeE7" : -1183138650,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 60,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477815893000",
+    "latitudeE7" : 340620181,
+    "longitudeE7" : -1183133073,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 332,
+    "altitude" : 51,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477815767685",
+    "latitudeE7" : 340584606,
+    "longitudeE7" : -1183121776,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 345,
+    "altitude" : 69,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477815569091",
+    "latitudeE7" : 340616942,
+    "longitudeE7" : -1183049109,
+    "accuracy" : 10,
+    "velocity" : 11,
+    "heading" : 265,
+    "altitude" : 72,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477815566020",
+    "latitudeE7" : 340632923,
+    "longitudeE7" : -1183040337,
+    "accuracy" : 28
+  }, {
+    "timestampMs" : "1477811847038",
+    "latitudeE7" : 340633621,
+    "longitudeE7" : -1183039048,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 71,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477810372254",
+    "latitudeE7" : 340632894,
+    "longitudeE7" : -1183040802,
+    "accuracy" : 30
+  }, {
+    "timestampMs" : "1477810152405",
+    "latitudeE7" : 340630482,
+    "longitudeE7" : -1183034668,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 289,
+    "altitude" : 110,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477810032554",
+    "latitudeE7" : 340630772,
+    "longitudeE7" : -1182976718,
+    "accuracy" : 21
+  }, {
+    "timestampMs" : "1477810032163",
+    "latitudeE7" : 340634230,
+    "longitudeE7" : -1182984905,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 265,
+    "altitude" : 92,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1477806188933",
+    "latitudeE7" : 340630471,
+    "longitudeE7" : -1182976843,
+    "accuracy" : 65,
+    "altitude" : 81,
+    "verticalAccuracy" : 27
+  }, {
+    "timestampMs" : "1477804628340",
+    "latitudeE7" : 340630656,
+    "longitudeE7" : -1182976495,
+    "accuracy" : 24
+  }, {
+    "timestampMs" : "1477804131999",
+    "latitudeE7" : 340615546,
+    "longitudeE7" : -1182958425,
+    "accuracy" : 10,
+    "velocity" : 8,
+    "heading" : 262,
+    "altitude" : 74,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477803981999",
+    "latitudeE7" : 340614077,
+    "longitudeE7" : -1182830214,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 331,
+    "altitude" : 81,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477803961061",
+    "latitudeE7" : 340603101,
+    "longitudeE7" : -1182809475,
+    "accuracy" : 70
+  }, {
+    "timestampMs" : "1477803748999",
+    "latitudeE7" : 340603770,
+    "longitudeE7" : -1182813496,
+    "accuracy" : 10,
+    "altitude" : 106,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477803518272",
+    "latitudeE7" : 340604571,
+    "longitudeE7" : -1182805355,
+    "accuracy" : 65,
+    "altitude" : 90,
+    "verticalAccuracy" : 15
+  }, {
+    "timestampMs" : "1477803380999",
+    "latitudeE7" : 340601370,
+    "longitudeE7" : -1182804629,
+    "accuracy" : 50,
+    "velocity" : 1,
+    "heading" : 111,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477803246438",
+    "latitudeE7" : 340599680,
+    "longitudeE7" : -1182815600,
+    "accuracy" : 69,
+    "altitude" : 84,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477802561536",
+    "latitudeE7" : 340603157,
+    "longitudeE7" : -1182804818,
+    "accuracy" : 65,
+    "altitude" : 88,
+    "verticalAccuracy" : 14
+  }, {
+    "timestampMs" : "1477801218633",
+    "latitudeE7" : 340608576,
+    "longitudeE7" : -1182809784,
+    "accuracy" : 65,
+    "altitude" : 87,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477800820474",
+    "latitudeE7" : 340593036,
+    "longitudeE7" : -1182806261,
+    "accuracy" : 88,
+    "altitude" : 86,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477799992035",
+    "latitudeE7" : 340606354,
+    "longitudeE7" : -1182809453,
+    "accuracy" : 65,
+    "altitude" : 87,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477799520865",
+    "latitudeE7" : 340598269,
+    "longitudeE7" : -1182819820,
+    "accuracy" : 65,
+    "altitude" : 87,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477798490301",
+    "latitudeE7" : 340600604,
+    "longitudeE7" : -1182807433,
+    "accuracy" : 50,
+    "velocity" : 1,
+    "heading" : 76,
+    "altitude" : 91,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477798061199",
+    "latitudeE7" : 340604807,
+    "longitudeE7" : -1182807247,
+    "accuracy" : 65,
+    "altitude" : 90,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477796777473",
+    "latitudeE7" : 340604608,
+    "longitudeE7" : -1182811434,
+    "accuracy" : 65,
+    "altitude" : 87,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477796193115",
+    "latitudeE7" : 340596773,
+    "longitudeE7" : -1182817102,
+    "accuracy" : 65,
+    "altitude" : 86,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477795853587",
+    "latitudeE7" : 340603720,
+    "longitudeE7" : -1182813531,
+    "accuracy" : 65,
+    "altitude" : 88,
+    "verticalAccuracy" : 11
+  }, {
+    "timestampMs" : "1477794364278",
+    "latitudeE7" : 340611261,
+    "longitudeE7" : -1182806259,
+    "accuracy" : 65,
+    "altitude" : 89,
+    "verticalAccuracy" : 17
+  }, {
+    "timestampMs" : "1477793513292",
+    "latitudeE7" : 340605010,
+    "longitudeE7" : -1182808475,
+    "accuracy" : 65,
+    "altitude" : 89,
+    "verticalAccuracy" : 15
+  }, {
+    "timestampMs" : "1477793213000",
+    "latitudeE7" : 340607248,
+    "longitudeE7" : -1182819344,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "heading" : 20,
+    "altitude" : 87,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477792935788",
+    "latitudeE7" : 340604314,
+    "longitudeE7" : -1182811475,
+    "accuracy" : 83
+  }, {
+    "timestampMs" : "1477792820409",
+    "latitudeE7" : 340610565,
+    "longitudeE7" : -1182826617,
+    "accuracy" : 10,
+    "velocity" : 7,
+    "heading" : 110,
+    "altitude" : 75,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477792696000",
+    "latitudeE7" : 340617874,
+    "longitudeE7" : -1182920828,
+    "accuracy" : 10,
+    "velocity" : 6,
+    "heading" : 89,
+    "altitude" : 77,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477792528000",
+    "latitudeE7" : 340617024,
+    "longitudeE7" : -1183007486,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 296,
+    "altitude" : 70,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477792402999",
+    "latitudeE7" : 340614384,
+    "longitudeE7" : -1183090519,
+    "accuracy" : 10,
+    "velocity" : 3,
+    "heading" : 114,
+    "altitude" : 63,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477792250945",
+    "latitudeE7" : 340652720,
+    "longitudeE7" : -1183142351,
+    "accuracy" : 5,
+    "velocity" : 6,
+    "heading" : 107,
+    "altitude" : 66,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477792239312",
+    "latitudeE7" : 340664440,
+    "longitudeE7" : -1183147022,
+    "accuracy" : 36
+  }, {
+    "timestampMs" : "1477791550999",
+    "latitudeE7" : 340664528,
+    "longitudeE7" : -1183147080,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 84,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477788038995",
+    "latitudeE7" : 340662915,
+    "longitudeE7" : -1183149990,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 49,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477785887000",
+    "latitudeE7" : 340665537,
+    "longitudeE7" : -1183148271,
+    "accuracy" : 55
+  }, {
+    "timestampMs" : "1477782766569",
+    "latitudeE7" : 341153055,
+    "longitudeE7" : -1182638023,
+    "accuracy" : 5,
+    "velocity" : 18,
+    "heading" : 223,
+    "altitude" : 120,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477782297999",
+    "latitudeE7" : 341274676,
+    "longitudeE7" : -1182636927,
+    "accuracy" : 80
+  }, {
+    "timestampMs" : "1477782282126",
+    "latitudeE7" : 341276728,
+    "longitudeE7" : -1182634688,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 110,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477780885000",
+    "latitudeE7" : 341269961,
+    "longitudeE7" : -1182642227,
+    "accuracy" : 93
+  }, {
+    "timestampMs" : "1477780883157",
+    "latitudeE7" : 341267685,
+    "longitudeE7" : -1182642554,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 196,
+    "altitude" : 139,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477778588727",
+    "latitudeE7" : 341480689,
+    "longitudeE7" : -1182485953,
+    "accuracy" : 330,
+    "altitude" : 205,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477777694000",
+    "latitudeE7" : 341479309,
+    "longitudeE7" : -1182532283,
+    "accuracy" : 10,
+    "velocity" : 7,
+    "heading" : 74,
+    "altitude" : 278,
+    "verticalAccuracy" : 64
+  }, {
+    "timestampMs" : "1477777446000",
+    "latitudeE7" : 341460207,
+    "longitudeE7" : -1182641228,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 359,
+    "altitude" : 175,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477777240999",
+    "latitudeE7" : 341297415,
+    "longitudeE7" : -1182603969,
+    "accuracy" : 10,
+    "velocity" : 14,
+    "heading" : 325,
+    "altitude" : 120,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477776992913",
+    "latitudeE7" : 341165693,
+    "longitudeE7" : -1182477224,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 317,
+    "altitude" : 149,
+    "verticalAccuracy" : 32
+  }, {
+    "timestampMs" : "1477776773221",
+    "latitudeE7" : 340980172,
+    "longitudeE7" : -1182336737,
+    "accuracy" : 5,
+    "velocity" : 18,
+    "heading" : 325,
+    "altitude" : 111,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477776642771",
+    "latitudeE7" : 340825085,
+    "longitudeE7" : -1182265242,
+    "accuracy" : 5,
+    "velocity" : 12,
+    "heading" : 359,
+    "altitude" : 105,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477776513000",
+    "latitudeE7" : 340714721,
+    "longitudeE7" : -1182276940,
+    "accuracy" : 10,
+    "velocity" : 16,
+    "heading" : 79,
+    "altitude" : 104,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477775997990",
+    "latitudeE7" : 340490327,
+    "longitudeE7" : -1182383169,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 319,
+    "altitude" : 90,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477775380490",
+    "latitudeE7" : 340520377,
+    "longitudeE7" : -1182461957,
+    "accuracy" : 978,
+    "altitude" : 118,
+    "verticalAccuracy" : 15
+  }, {
+    "timestampMs" : "1477774356999",
+    "latitudeE7" : 340570461,
+    "longitudeE7" : -1182512415,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 133,
+    "altitude" : 115,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1477773294000",
+    "latitudeE7" : 340692485,
+    "longitudeE7" : -1183118777,
+    "accuracy" : 10,
+    "altitude" : 78,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477770731968",
+    "latitudeE7" : 340638299,
+    "longitudeE7" : -1182888695,
+    "accuracy" : 10,
+    "velocity" : 6,
+    "heading" : 283,
+    "altitude" : 79,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477770652999",
+    "latitudeE7" : 340602639,
+    "longitudeE7" : -1182811727,
+    "accuracy" : 43
+  }, {
+    "timestampMs" : "1477770251000",
+    "latitudeE7" : 340603298,
+    "longitudeE7" : -1182810523,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "heading" : 229,
+    "altitude" : 92,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477769158000",
+    "latitudeE7" : 340607140,
+    "longitudeE7" : -1182810693,
+    "accuracy" : 30,
+    "velocity" : 1,
+    "heading" : 239,
+    "altitude" : 89,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477768719000",
+    "latitudeE7" : 340600387,
+    "longitudeE7" : -1182811056,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "heading" : 309,
+    "altitude" : 93,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477768592000",
+    "latitudeE7" : 340597263,
+    "longitudeE7" : -1182813286,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 93,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477767811999",
+    "latitudeE7" : 340596431,
+    "longitudeE7" : -1182810788,
+    "accuracy" : 100,
+    "altitude" : 93,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477766833008",
+    "latitudeE7" : 340598756,
+    "longitudeE7" : -1182810042,
+    "accuracy" : 51
+  }, {
+    "timestampMs" : "1477765688999",
+    "latitudeE7" : 340596764,
+    "longitudeE7" : -1182809958,
+    "accuracy" : 68
+  }, {
+    "timestampMs" : "1477765675000",
+    "latitudeE7" : 340597030,
+    "longitudeE7" : -1182809293,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 90,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477764100000",
+    "latitudeE7" : 340596323,
+    "longitudeE7" : -1182815583,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 282,
+    "altitude" : 93,
+    "verticalAccuracy" : 3
+  }, {
+    "timestampMs" : "1477764098401",
+    "latitudeE7" : 340596628,
+    "longitudeE7" : -1182813623,
+    "accuracy" : 74
+  }, {
+    "timestampMs" : "1477762447111",
+    "latitudeE7" : 340662438,
+    "longitudeE7" : -1183149927,
+    "accuracy" : 40
+  }, {
+    "timestampMs" : "1477760846000",
+    "latitudeE7" : 340662704,
+    "longitudeE7" : -1183150479,
+    "accuracy" : 30,
+    "velocity" : 0,
+    "heading" : 169,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477757562005",
+    "latitudeE7" : 340663683,
+    "longitudeE7" : -1183148146,
+    "accuracy" : 5,
+    "velocity" : 0,
+    "altitude" : 52,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477757559153",
+    "latitudeE7" : 340663491,
+    "longitudeE7" : -1183148283,
+    "accuracy" : 52
+  }, {
+    "timestampMs" : "1477732720358",
+    "latitudeE7" : 340663822,
+    "longitudeE7" : -1183149270,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "altitude" : 51,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477719217913",
+    "latitudeE7" : 340665340,
+    "longitudeE7" : -1183147245,
+    "accuracy" : 38
+  }, {
+    "timestampMs" : "1477719024006",
+    "latitudeE7" : 340664970,
+    "longitudeE7" : -1183147983,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 206,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477717753999",
+    "latitudeE7" : 340666980,
+    "longitudeE7" : -1183147028,
+    "accuracy" : 90
+  }, {
+    "timestampMs" : "1477717739851",
+    "latitudeE7" : 340677997,
+    "longitudeE7" : -1183171877,
+    "accuracy" : 1255,
+    "altitude" : 74,
+    "verticalAccuracy" : 19
+  }, {
+    "timestampMs" : "1477714854314",
+    "latitudeE7" : 340690569,
+    "longitudeE7" : -1183032028,
+    "accuracy" : 10,
+    "velocity" : 11,
+    "heading" : 267,
+    "altitude" : 76,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477714366302",
+    "latitudeE7" : 340535460,
+    "longitudeE7" : -1182656993,
+    "accuracy" : 10,
+    "velocity" : 15,
+    "heading" : 299,
+    "altitude" : 90,
+    "verticalAccuracy" : 24
+  }, {
+    "timestampMs" : "1477704167999",
+    "latitudeE7" : 340670462,
+    "longitudeE7" : -1182917657,
+    "accuracy" : 78
+  }, {
+    "timestampMs" : "1477703408000",
+    "latitudeE7" : 340666525,
+    "longitudeE7" : -1182922444,
+    "accuracy" : 200,
+    "velocity" : 0,
+    "altitude" : 74,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477701427000",
+    "latitudeE7" : 340669797,
+    "longitudeE7" : -1182911096,
+    "accuracy" : 10,
+    "velocity" : 6,
+    "heading" : 76,
+    "altitude" : 77,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477701423000",
+    "latitudeE7" : 340669535,
+    "longitudeE7" : -1182912772,
+    "accuracy" : 78
+  }, {
+    "timestampMs" : "1477700648862",
+    "latitudeE7" : 340529858,
+    "longitudeE7" : -1182647595,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 236,
+    "altitude" : 104,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477698747627",
+    "latitudeE7" : 340281822,
+    "longitudeE7" : -1182692784,
+    "accuracy" : 10,
+    "velocity" : 12,
+    "heading" : 210,
+    "altitude" : 89,
+    "verticalAccuracy" : 16
+  }, {
+    "timestampMs" : "1477698394442",
+    "latitudeE7" : 340257663,
+    "longitudeE7" : -1182647296,
+    "accuracy" : 1414,
+    "altitude" : 62,
+    "verticalAccuracy" : 13
+  }, {
+    "timestampMs" : "1477698385176",
+    "latitudeE7" : 340313120,
+    "longitudeE7" : -1182658464,
+    "accuracy" : 58
+  }, {
+    "timestampMs" : "1477688528369",
+    "latitudeE7" : 340316407,
+    "longitudeE7" : -1182658189,
+    "accuracy" : 65,
+    "altitude" : 62,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477686228297",
+    "latitudeE7" : 340310173,
+    "longitudeE7" : -1182662906,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477685947019",
+    "latitudeE7" : 340309579,
+    "longitudeE7" : -1182673913,
+    "accuracy" : 10,
+    "velocity" : 0,
+    "heading" : 176,
+    "altitude" : 69,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477685183192",
+    "latitudeE7" : 340318555,
+    "longitudeE7" : -1182670322,
+    "accuracy" : 10,
+    "velocity" : 2,
+    "heading" : 156,
+    "altitude" : 67,
+    "verticalAccuracy" : 12
+  }, {
+    "timestampMs" : "1477684949159",
+    "latitudeE7" : 340310432,
+    "longitudeE7" : -1182667852,
+    "accuracy" : 100,
+    "altitude" : 68,
+    "verticalAccuracy" : 8
+  }, {
+    "timestampMs" : "1477679875999",
+    "latitudeE7" : 340312939,
+    "longitudeE7" : -1182666086,
+    "accuracy" : 100,
+    "velocity" : 0,
+    "altitude" : 19,
+    "verticalAccuracy" : 192
+  }, {
+    "timestampMs" : "1477679266369",
+    "latitudeE7" : 340318695,
+    "longitudeE7" : -1182581538,
+    "accuracy" : 1439,
+    "altitude" : 62,
+    "verticalAccuracy" : 68
+  }, {
+    "timestampMs" : "1477672035999",
+    "latitudeE7" : 340312930,
+    "longitudeE7" : -1182659831,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 68,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477671224000",
+    "latitudeE7" : 340314123,
+    "longitudeE7" : -1182660656,
+    "accuracy" : 30,
+    "velocity" : 2,
+    "heading" : 141,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477670912000",
+    "latitudeE7" : 340315294,
+    "longitudeE7" : -1182661780,
+    "accuracy" : 50,
+    "velocity" : 0,
+    "altitude" : 86,
+    "verticalAccuracy" : 48
+  }, {
+    "timestampMs" : "1477670611100",
+    "latitudeE7" : 340311472,
+    "longitudeE7" : -1182655790,
+    "accuracy" : 75,
+    "altitude" : 63,
+    "verticalAccuracy" : 10
+  }, {
+    "timestampMs" : "1477669573996",
+    "latitudeE7" : 340311799,
+    "longitudeE7" : -1182661015,
+    "accuracy" : 65,
+    "altitude" : 61,
+    "verticalAccuracy" : 11
+  }, {
+    "timestampMs" : "1477669381974",
+    "latitudeE7" : 340311251,
+    "longitudeE7" : -1182663372,
+    "accuracy" : 73
+  }, {
+    "timestampMs" : "1477669082000",
+    "latitudeE7" : 340295638,
+    "longitudeE7" : -1182680512,
+    "accuracy" : 10,
+    "velocity" : 1,
+    "heading" : 31,
+    "altitude" : 66,
+    "verticalAccuracy" : 4
+  }, {
+    "timestampMs" : "1477668801633",
+    "latitudeE7" : 340296882,
+    "longitudeE7" : -1182703500,
+    "accuracy" : 30,
+    "velocity" : 3,
+    "heading" : 341,
+    "altitude" : 67,
+    "verticalAccuracy" : 4
+  } ]
+}

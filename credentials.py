@@ -2,4 +2,4 @@ passphrases = {
      0: 'dsi dtla 2016 cohort capstone project'
 }
 
-fbtoken = 'EAACEdEose0cBANum5sqtOISpnkea2FMUyEgN9TcP0rzl1N1buefx7qBcyRVTE61WMqnbm2twzsxTA70RNFwbcfFmNbXqnhCCoZB7lOOERC7oOrtqbhOGWuZCQ1lTCQ47ZBJ9uf8jFH4kZC7Md2dT3rlfB9RPZBTGnznYWqLIlMwZDZD'
+fbtoken = 'EAACEdEose0cBAFN0pvxm9APNvXZAP1NHmQrDIDmooIFnnuERxivy65FSsTauwz7sX1FT1KRWyR086nehAzga7TlEMaNykm4IKmqxmoZBbIqXgptV04JGC5bpgvujPhHPkFKKkbvf0ZCZBzRy2GiGO68l61gC6e23Cihf5LKfUgZDZD'
